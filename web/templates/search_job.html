@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content1 %}
+                    <div class="row">
+                        {% if data %}
+                            {% for job in data %}
+                            <div class="col-lg-6">
+                            <!-- Blog post -->
+                                <div class="card mb-4">
+                                    <a href="/post/?id_job={{ job.id }}"><img class="card-img-top" src="{% static 'img/job.jpg' %}" alt="..." /></a>
+                                    <div class="card-body">
+                                        <div class="small text-muted">{{ job.address  }}</div>
+                                        <h2 class="card-title h4">{{ job.title }}</h2>
+                                        <p class="card-text">Ngành {{ job.job_name }}</p>
+                                        <p class="card-text">Lương: {{ job.salary }}</p>
+                                        <a class="btn btn-primary" href="/post/?id_job={{ job.id }}">Xem chi tiết→</a>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+
+
+
+                        {% else %}
+                        <p class="card-title h2">Không có công việc nào, hãy thử tìm kiếm!</p>
+                       {% endif %}
+
+
+                    </div>
+{% endblock %}
