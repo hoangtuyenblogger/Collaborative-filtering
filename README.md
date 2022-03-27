@@ -25,6 +25,8 @@ Tùy thuộc vào việc hệ thống có học từ dữ liệu hay không, l�
 
 Phương pháp lọc cộng tác hay hệ thống lọc cộng tác là phương pháp phân tích dữ liệu người dùng để tìm ra mối tương quan giữa các đối tượng người dùng. Lọc cộng tác hoạt động bằng cách xây dựng một cơ sở dữ liệu, lưu trữ dưới dạng ma trận người dùng (users) - sản phẩm (items) và mỗi dòng của nó là một vectơ.
 
+![Alt text](\web\static\img\Recomend_system.png"Recommend system")
+
 Sau đó, phân tích dữ liệu, tính toán sự tương đồng giữa các users với nhau để đưa ra gợi ý. Ý tưởng quan trọng của phương pháp này là những người dùng tương tự có xu hướng sử dụng những sản phẩm tương tự (Singh & Pramod, 2019).
 
 Ví dụ: Nếu khách hàng A thích các sản phẩm tương tự khách hàng B thì phương pháp lọc cộng tác sẽ đoán rằng khách hàng A có khả năng sẽ thích các sản phẩm khác mà khách hàng B đã thích/mua và ngược lại.
