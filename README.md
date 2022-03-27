@@ -6,9 +6,29 @@
 GVHD: `Dương Thị Kim Chi`
 Sinh viên thực hiện: `Hoàng Kim Tuyến | D18HT01`
 
-Hệ thống gợi ý (Recommender systems hoặc Recommendation systems) là một dạng của hệ hỗ trợ ra quyết định, cung cấp giải pháp mang tính cá nhân hóa mà không phải trải qua quá trình tìm kiếm phức tạp. Hệ gợi ý học từ người dùng và gợi ý các sản phẩm phù hợp nhất.
+Hệ thống gợi ý (Recommender System) là 1 nhánh con của hệ thống lọc thông tin (Infomation filtering system), nhằm tìm cách dự đoán việc đánh giá (rating) của người dùng (user) sẽ đưa ra cho 1 sản phẩm (item). Chúng chủ yếu được dùng trong các ứng dụng thương mại điện tử.
 
-Các website thương mại điện tử, ví dụ như sách, phim, nhạc, báo... sử dụng hệ thống gợi ý để cung cấp các thông tin giúp cho người sử dụng quyết định sẽ lựa chọn sản phẩm nào. Các sản phẩm được gợi ý dựa trên số lượng sản phẩm đó đã được bán, dựa trên các thông tin cá nhân của người sử dụng, dựa trên sự phân tích hành vi mua hàng trước đó của người sử dụng để đưa ra các dự đoán về hành vi mua hàng trong tương lai của chính khách hàng đó.
+Ví dụ như: Giới thiệu các sản phẩm trên Amazon, các bài hát trên Spotify, các bộ phim trên Netflix hay các bài viết trên Medium, …
+
+Thực chất, vấn đề của hệ gợi ý là xác định ánh xạ (u, i) -> R, trong đó u là biểu diễn cho 1 người dùng, i biểu diễn cho 1 sản phẩm và R là đánh giá của u lên i. Sau đó, các đánh giá của người dùng u lên tất cả các sản phẩm i tương ứng sẽ được sắp xếp, và lấy N sản phẩm có đánh giá cao nhất để đưa ra gợi ý cho người dùng u.
+
+Khái niệm ‘đánh giá’ ở đây là khá trừu tượng, có thể được đo lường bằng hành động của người dùng như mua sản phẩm, click chuột vào sản phẩm, hoặc click vào “không hiển thị lại”, …
+
+Hệ gợi ý thường được phân thành các loại sau:
+- Lọc dựa trên nội dung (Content-base filtering)
+- Lọc cộng tác (Collaborative filtering)
+- Phương pháp lai ghép (Hybrid Method)
+
+Tùy thuộc vào việc hệ thống có học từ dữ liệu hay không, lại chia thành các loại sau:
+- Dựa trên bộ nhớ
+- Dựa trên mô hình
+
+Phương pháp lọc cộng tác hay hệ thống lọc cộng tác là phương pháp phân tích dữ liệu người dùng để tìm ra mối tương quan giữa các đối tượng người dùng. Lọc cộng tác hoạt động bằng cách xây dựng một cơ sở dữ liệu, lưu trữ dưới dạng ma trận người dùng (users) - sản phẩm (items) và mỗi dòng của nó là một vectơ.
+
+Sau đó, phân tích dữ liệu, tính toán sự tương đồng giữa các users với nhau để đưa ra gợi ý. Ý tưởng quan trọng của phương pháp này là những người dùng tương tự có xu hướng sử dụng những sản phẩm tương tự (Singh & Pramod, 2019).
+
+Ví dụ: Nếu khách hàng A thích các sản phẩm tương tự khách hàng B thì phương pháp lọc cộng tác sẽ đoán rằng khách hàng A có khả năng sẽ thích các sản phẩm khác mà khách hàng B đã thích/mua và ngược lại.
+
 ## Ưu điểm
 - Phương pháp này có khả năng dự đoán được sở thích và nhu cầu của người dùng để đưa ra gợi ý các sản phẩm phù hợp với từng khách hàng mà không cần hiểu sản phẩm.
 - Gợi ý dựa trên trải nghiệm của người dùng tương tự khác nên có thể gợi ý được những sản phẩm mới phù hợp sở thích mới.
