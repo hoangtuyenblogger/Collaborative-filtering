@@ -1,0 +1,301 @@
+ID EMLOYER,NAME EMPLOYER,EMPLOYER_JOB,ID JOBS,JOBS_NAME,SCORE
+121,Nguyen Minh Hieu,Designer,249,Nhân Viên Kinh Doanh Ph?n M?m / Thi?t K? Website,5
+122,Ngô Thùy Th??ng,Information Technology Engineer,250,Nhân Viên Phòng Thi?t K? ?? H?a - ?i Làm Ngay,4
+123,Dam Gia Huy,It Staff,251,Nhân Viên K? Thu?t,3
+124,V? Chính Tr?c,Th?c T?p Sinh Thi?t K? Website,252,K? Thu?t Viên Sctv - ?i Làm Ngay T?i D? An Bình D??ng - Bình Ph??c,1
+125,Bùi Th? Nguy?t,Nhân Viên K? Ho?ch,253,"K? Thu?t Viên Internet Sctv H? Chí Minh Và ??ng Nai (Tr?ng Bom, Long Khánh, D?u Giây)",1
+128,Tr?n Th? Kim Oanh,Nhân Viên V?n Phòng,254,Nhân Viên K? Thu?t Máy Tính -T?i Bình D??ng,1
+129,Hu?nh Kim ??c,K? Thu?t,255,Nhân Viên Marketing - ?i Làm Ngay,1
+130,Tr?n Thanh Hùng,Nhân Viên V?n Phòng Ti?ng Trung,256,"Nhân Viên K? Thu?t Máy Tính, Camera",1
+131,Lê Minh Tâm,Nhân Viên Nh?p Li?u,257,"Nhân Viên Kinh Doanh Ph?n M?m, Thi?t K? Website",1
+132,Le Nguyen Quoc Trung,Intern,258,"Nhân Viên K? Thu?t (Trung Tâm B?o Hành Canon) Làm Vi?c T?i HCM, Bình Thu?n, ??ng Nai, Bình D??ng",1
+133,Tr?n V?n Vinh,Nhân Viên Kinh Doanh,259,Nhân Viên K? Thu?t B?o Trì Và Tri?n Khai M?ng,1
+134,Nguy?n Th? Qu?nh Chi,Nhân Viên Tuy?n D?ng Vàtruy?n Thông,260,Nhân Viên Qu?n Tr? Web,1
+135,Nguy?n Phúc ??t,Interns It,261,Nhân Viên Vi Tính Co.Opmart Bình D??ng,1
+136,Lê Anh D?ng,H?c Vi?c,262,Nhân Viên K? Thu?t Vi?n Thông,5
+137,Nguy?n Th?c,Nhân Viên Fulltime,263,Nhân Viên K? Thu?t B?o Trì Máy In Làm Vi?c C? Chi,4
+138,Vo? Tro?ng Hiê?n,Internship-Frontend,264,Nhân Viên Erp - V?ng Tàu,4
+139,Nguy?n Trung V?nh,Internship Ux/ui Designer,265,"IT Helpdesk / IT Support (Bình D??ng,th? ??c, Long An, ??ng Nai, TPHCM.)",5
+140,Nguy?n Minh ??c,L?p Trình Viên,266,Nhân Viên Digital Marketing,3
+141,Tr?n Anh Thu?n,Th?c T?p Sinh,267,Th? In Thùng Carton (Máy In Flexo) - Bình D??ng,1
+142,D??ng Thanh Tr??ng,"Sinh Viên Th?c T?p Mobile, Front End Web",268,K? Thu?t Viên Sctv - T?i V?ng Tàu Và Huy?n Châu ??c,1
+143,Tr?n ??i V?,C? V?n D?ch V?,269,Nhân Viên IT T?i Nhà Máy,5
+144,Hu?nh T?n Phúc,Th?c T?p Sinh Front End,270,Nhân Viên D?ch V? Khách Hàng,5
+145,?oàn Duy Th?c,Ph? B?p King Bbq,271,Sales IT Manager,5
+146,Bùi Ph??ng Nam,Nhân Viên Thi?t K? Website,272,".Net Developer (C# Asp.Net Core Web App , Vb.Net)",5
+147,Tr?n V?n ??c,"System Admin, It Helpdesk, It Support.",273,Nhân Viên Kinh Doanh Ph?n M?m / Thi?t K? Website,0
+148,Ph?m ??ng Khoa,K? Thu?t Ph?n M?m,274,Marketing Excutive,1
+149,Tr?n V?n Linh,Nhân Viên It,275,Nhân Viên Digital Marketing,3
+150,Nguy?n H?u Ph??c,It-It Helpdesk-It Support,276,L?p Trình PHP,3
+151,Nguy?n Th? Thu? Anh,Ch?m Sóc Khách Hàng,277,L?p Trình Viên Unity - Thu Nh?p Lên ??n 30 Tri?u,5
+152,Ki?u V?n D??ng,Biên Phiên D?ch Ti?ng Trung Qu?c,278,Nhân Viên Content Marketing- ?i Làm Ngay,3
+153,Vo? Hô? Thu Tiên,??ng Viên Vi? Tri? Tr???ng Pho?ng,279,Nhân Viên Digital Marketing - ?i Làm Ngay,3
+154,Nguy?n V? Bình,Giáo Viên,280,Qu?n Lý Nhóm Kinh Doanh Showroom - Online - Sàn Th??ng M?i ?i?n T?,1
+155,Lê H?ng H?nh,Giáo Viên M?m Non,281,"Nhân Viên K? Thu?t Máy Tính, Máy In Không C?n Kinh Nghi?m",1
+156,Võ Xuân Tr??ng Giang,Qu?n Lí Chi Nhánh,282,"Nhân Viên K? Thu?t S?a Ch?a Máy In, Laptop, Pc",1
+157,Nguy?n Th? H?ng Nhung,K? S?,283,K? Thu?t Viên Sctv - ?i Làm Ngay T?i D? An Bình D??ng - Bình Ph??c,1
+158,Le Thi Nhung,Sustainability Engineer,284,Nhân Viên Digital Marketing - 6 tháng kinh nghi?m,1
+159,Bui Cam Thuy,English Teacher,285,Nhân Viên Qu?n Lý Kênh Th??ng M?i ?i?n T?,5
+160,Phan Nguyen Hong Phat,Teaching Assistant,286,Designer Graphic - Chuyên Viên Thi?t K?,5
+161,Nguy?n Th? Thu? Tiên,Thông D?ch Viên,287,Nhân Viên Social Marketing,3
+162,Nguy?n Ng?c Thanh Th?y,Chuyên Viên Hành Chính Giám Sát D?ch V? V?n Hành,288,K? S? Phát Tri?n Ph?n M?m - Fullstack developer,3
+163,Nguy?n Th? C?m H??ng,Nhân Viên V?n Phòng,289,Nhân Viên Marketing (?i Làm Ngay),3
+164,Bùi Nguy?n Hoài Trâm,Giáo Viên Tr? Gi?ng,290,Nhân Viên Marketing (?i Làm Ngay),3
+165,Mai Hu?nh Khánh,Chuyên Viên T? V?n Tuy?n Sinh,291,L?p Trình Viên ?ng D?ng Di ??ng,1
+166,Ph?m Th? Lanh,Saleman,292,Nhân Viên Content Marketing,1
+167,Hu?nh Th? M? Dung,Teaching Assistant,293,L?p Trình PHP (Cs-Cart) - L??ng Trên 20 Tri?u,1
+168,Tr?n Th? Dung,Nhân Viên V?n Phòng,294,Nhân Viên Content (Marketing / Write) - T?i Tân Bình HCM,1
+169,Nhung Thi Nguyen,Sales Administrator/purchase,295,Nhân Viên Kinh Doanh (Làm Vi?c T?i Gò V?p),1
+170,Cong Pham Dinh,Marketing Executive,296,Nhân Viên Marketing Executive - Qu?n 3,1
+171,Lê Hu?nh Uyên Ph??ng,Nhân Viên T? V?n Tài Chính,297,N? Thi?t K? ?? Ho?,5
+172,Lâm Kim Nhung,Nhân Viên Telesale,298,Marketing Excutive Bi?t Thi?t K?,1
+173,Nguy?n Th? M?ng Linh,Giáo Viên,299,Nhân Viên Digital Marketing,1
+174,Ngô Th? Loan,"Th? Ký, Tr? Lý.",300,Nhân Viên IT - K? Thu?t Máy In [Hà N?i - B?c Ninh],1
+175,Hu?nh Th? Hoàng Oanh,Ctv X? Lý D? Li?u Online,301,Chuyên Viên Digital Marketing Thu Nh?p 10-15 Tri?u (C? H?i Th?ng Ti?n Lên Tr??ng Phòng),5
+176,Tr??ng Thanh Thu?,Nhân Viên,302,Nhân Viên Content Markering,5
+177,Tr?n Tú Trinh,Freelancer,303,Nhân Viên Marketing  L??ng T? 12-15Tr,5
+178,Nguy?n Nhã Th?,Office Staff,304,"K? Thu?t Viên S?a Ch?a Máy Photocopy, Máy In",5
+179,Ph?m Hi?n Tài,Giáo Viên Th? D?c,305,Kê? Toa?n Nô?i Bô?- ?i Làm Ngay,1
+180,Ngô Thúy H??ng,Th?c T?p Sinh,306,Nhân Viên Thi?t K? ?? H?a,5
+121,Nguyen Minh Hieu,Designer,307,Nhân Viên K? Thu?t (Camera & Laptop & Pc & M?c In & Máy In),5
+122,Ngô Thùy Th??ng,Information Technology Engineer,308,Nhân Viên Thi?t K? In ?n - Qu?ng Cáo,5
+123,Dam Gia Huy,It Staff,309,"Leader / Qu?n Lý Marketing (Content, Digital) - Làm Vi?c T?i Th? ??c - Nh?n Vi?c Ngay",5
+124,V? Chính Tr?c,Th?c T?p Sinh Thi?t K? Website,310,Chuyên Viên Kinh Doanh B2B (Thu Nh?p 10-20 Tri?u),1
+125,Bùi Th? Nguy?t,Nhân Viên K? Ho?ch,311,(Qu?n 7) Marketing Executive,5
+128,Tr?n Th? Kim Oanh,Nhân Viên V?n Phòng,312,Chuyên Viên Thi?t K? ?? Ho? (Ph?n M?m Indesign) L??ng 14 - 18 Tr,1
+129,Hu?nh Kim ??c,K? Thu?t,313,Nhân Viên IT - K? Thu?t Máy In [Tp. H? Chí Minh],5
+130,Tr?n Thanh Hùng,Nhân Viên V?n Phòng Ti?ng Trung,314,Nhân Viên SEO Web (Marketing),1
+131,Lê Minh Tâm,Nhân Viên Nh?p Li?u,315,Chuyên Viên Digital Marketing,3
+132,Le Nguyen Quoc Trung,Intern,316,Nhân Viên Thi?t K?,1
+133,Tr?n V?n Vinh,Nhân Viên Kinh Doanh,317,"Nhân Viên K? Thu?t S?a Ch?a ?i?n Tho?i, Laptop",1
+134,Nguy?n Th? Qu?nh Chi,Nhân Viên Tuy?n D?ng Vàtruy?n Thông,318,"K? S? Atm Bi?t Ti?ng Anh (H? Chí Minh, ?à N?ng) Không C?n Kinh Nghi?m",5
+135,Nguy?n Phúc ??t,Interns It,319,Nhân Viên K? Thu?t Ph?n C?ng - Thu Nh?p 10-12 Tri?u,3
+136,Lê Anh D?ng,H?c Vi?c,320,Chuyên Viên Digital Marketing Qu?n 10,5
+137,Nguy?n Th?c,Nhân Viên Fulltime,321,Nhân Viên X? Lý D? Li?u Ti?ng Anh [Data Processor],5
+138,Vo? Tro?ng Hiê?n,Internship-Frontend,322,Nhân Viên IT Kiêm K? Thu?t ?i?n N??c,5
+139,Nguy?n Trung V?nh,Internship Ux/ui Designer,323,Nhân Viên K? Thu?t ?i?n / ?i?n L?nh,5
+140,Nguy?n Minh ??c,L?p Trình Viên,324,Nhân Viên K? Thu?t (?i?n / ?i?n T? / CNTT),3
+141,Tr?n Anh Thu?n,Th?c T?p Sinh,325,"K? Thu?t Viên Internet Sctv H? Chí Minh Và ??ng Nai (Tr?ng Bom, Long Khánh, D?u Giây)",5
+142,D??ng Thanh Tr??ng,"Sinh Viên Th?c T?p Mobile, Front End Web",326,Support / Ch?m Sóc Khách Hàng,1
+143,Tr?n ??i V?,C? V?n D?ch V?,327,Nhân Viên V?n Phòng B? Ph?n S?n Xu?t,3
+144,Hu?nh T?n Phúc,Th?c T?p Sinh Front End,328,"Nhân Viên ?i?n, ?i?n T? - T? ??ng Hóa -  Làm Vi?c 3 T?i Ch? Qu?n Tân Phú",3
+145,?oàn Duy Th?c,Ph? B?p King Bbq,329,[Vinbus] Nhân Viên IT Helpdesk T?i Qu?n 9 Th? ??c HCM,1
+146,Bùi Ph??ng Nam,Nhân Viên Thi?t K? Website,330,Nhân Viên IT,5
+147,Tr?n V?n ??c,"System Admin, It Helpdesk, It Support.",331,Nhân Viên Kinh Doanh Th??ng M?i ?i?n T? - L??ng ??n 15 Tri?u,4
+148,Ph?m ??ng Khoa,K? Thu?t Ph?n M?m,332,K? Thu?t Viên Công Ngh? Thông Tin T?i HCM Và Hà N?i,5
+149,Tr?n V?n Linh,Nhân Viên It,333,Nhân Viên K? Thu?t IT,5
+150,Nguy?n H?u Ph??c,It-It Helpdesk-It Support,334,Nhân Viên Kinh Doanh Ict,5
+151,Nguy?n Th? Thu? Anh,Ch?m Sóc Khách Hàng,335,Nhân Viên X? Lý H?u K? Phim,3
+152,Ki?u V?n D??ng,Biên Phiên D?ch Ti?ng Trung Qu?c,336,Qu?n Lý Kinh Doanh Khu V?c Qu?n 1,1
+153,Vo? Hô? Thu Tiên,??ng Viên Vi? Tri? Tr???ng Pho?ng,337,Mobifone - Chuyên Viên T? V?n D?ch V? Và Các S?n Ph?m Ho?c Gi?i Pháp CNTT,5
+154,Nguy?n V? Bình,Giáo Viên,338,K? Thu?t Viên Toà Nhà,1
+155,Lê H?ng H?nh,Giáo Viên M?m Non,339,Ky? Thuâ?t Viên IT,1
+156,Võ Xuân Tr??ng Giang,Qu?n Lí Chi Nhánh,340,Nhân Viên Content Marketing - Làm T?i Qu?n 7 ,1
+157,Nguy?n Th? H?ng Nhung,K? S?,341,"Nhân Viên Quay Phim, Ch?p Hình, D?ng Clip S?n Ph?m - ?i Làm Ngay",5
+158,Le Thi Nhung,Sustainability Engineer,342,[Tân Phú ] Nhân Viên Marketing Online - ?i Làm Ngay,5
+159,Bui Cam Thuy,English Teacher,343,Nhân Viên Digital Marketing,1
+160,Phan Nguyen Hong Phat,Teaching Assistant,344,Nhân Viên Marketing - ?i Làm Ngay,1
+161,Nguy?n Th? Thu? Tiên,Thông D?ch Viên,345,Nhân Viên SEO Marketing,1
+162,Nguy?n Ng?c Thanh Th?y,Chuyên Viên Hành Chính Giám Sát D?ch V? V?n Hành,346,"Nhân Viên Marketing (Qu?ng Cáo Google Ads, Facebook)",1
+163,Nguy?n Th? C?m H??ng,Nhân Viên V?n Phòng,347,Giám Sát Thu Phí - ?i?u Hành H? Th?ng Giao Thông,1
+164,Bùi Nguy?n Hoài Trâm,Giáo Viên Tr? Gi?ng,348,"Nhân Viên K? Thu?t Camera, Máy Tính - ?i Làm Ngay",5
+165,Mai Hu?nh Khánh,Chuyên Viên T? V?n Tuy?n Sinh,349,Nhân Viên Marketing Online - ?i Làm Ngay,5
+166,Ph?m Th? Lanh,Saleman,350,Nhân Viên Marketing,5
+167,Hu?nh Th? M? Dung,Teaching Assistant,351,Nhân Viên K? Thu?t IT - Sales IT,5
+168,Tr?n Th? Dung,Nhân Viên V?n Phòng,352,"Nhân Viên Thi?t K? ?? Ho?, M? Thu?t, Truy?n Thông, Qu?ng Cáo (?i Làm Ngay)",5
+169,Nhung Thi Nguyen,Sales Administrator/purchase,353,Nhân Viên Digital Marketing,4
+170,Cong Pham Dinh,Marketing Executive,354,Tr??ng Phòng Kinh Doanh Ict,5
+171,Lê Hu?nh Uyên Ph??ng,Nhân Viên T? V?n Tài Chính,355,Giáo Viên D?y Tin H?c V?n Phòng,5
+172,Lâm Kim Nhung,Nhân Viên Telesale,356,Nhân Viên Kinh Doanh Website Thu Nh?p Trên 10 Tri?u,5
+173,Nguy?n Th? M?ng Linh,Giáo Viên,357,Nhân Viên K? Thu?t ?i?n - Làm Vi?c Bình Tân,1
+174,Ngô Th? Loan,"Th? Ký, Tr? Lý.",358,Digital Marketing,3
+175,Hu?nh Th? Hoàng Oanh,Ctv X? Lý D? Li?u Online,359,"Nhân Viên K? Thu?t Máy Tính, Máy In, M?c In, M?ng",5
+176,Tr??ng Thanh Thu?,Nhân Viên,360,IT Helpdesk,5
+177,Tr?n Tú Trinh,Freelancer,361,Nhân Viên K? Thu?t ??ng Máy In,5
+178,Nguy?n Nhã Th?,Office Staff,362,Digital Marketing,5
+179,Ph?m Hi?n Tài,Giáo Viên Th? D?c,363,Nhân Viên K? Thu?t B?o Trì Máy In Làm Vi?c C? Chi,4
+180,Ngô Thúy H??ng,Th?c T?p Sinh,364,Nhân Viên R?p M?u ?i Làm Ngay,3
+121,Nguyen Minh Hieu,Designer,365,Nhân Viên K? Thu?t L?p ??t Camera (Qu?n 12),3
+122,Ngô Thùy Th??ng,Information Technology Engineer,366,"L?p Trình Web (Front-End, Back-End)",5
+123,Dam Gia Huy,It Staff,367,Nhân Viên K? Thu?t ?i?n T? Vi?n Thông,5
+124,V? Chính Tr?c,Th?c T?p Sinh Thi?t K? Website,368,Nhân Viên Thi?t K? N?i Th?t 2D 3D - ?i Làm Ngay,5
+125,Bùi Th? Nguy?t,Nhân Viên K? Ho?ch,369,K? Thu?t Viên Sctv - T?i V?ng Tàu Và Huy?n Châu ??c,3
+128,Tr?n Th? Kim Oanh,Nhân Viên V?n Phòng,370,Nhân Viên Marketing,1
+129,Hu?nh Kim ??c,K? Thu?t,371,Nhân Viên Content Marketing,3
+130,Tr?n Thanh Hùng,Nhân Viên V?n Phòng Ti?ng Trung,372,Nhân Viên Kinh Doanh Ph?n M?m (L??ng C?ng ??n 12 Tri?u/ Tháng),5
+131,Lê Minh Tâm,Nhân Viên Nh?p Li?u,373,Graphic Designer,3
+132,Le Nguyen Quoc Trung,Intern,374,Nhân Viên Vi Tính / IT Làm Vi?c T?i Siêu Th? Co.Opxtra TPHCM,4
+133,Tr?n V?n Vinh,Nhân Viên Kinh Doanh,375,Nam Nhân Viên Giám Sát Camera T?i Qu?n 1,1
+134,Nguy?n Th? Qu?nh Chi,Nhân Viên Tuy?n D?ng Vàtruy?n Thông,376,Nhân Viên K? Thu?t IT,5
+135,Nguy?n Phúc ??t,Interns It,377,Nhân Viên Marketing - ?i Làm Ngay,3
+136,Lê Anh D?ng,H?c Vi?c,378,Nhân Viên Nh?p Li?u,4
+137,Nguy?n Th?c,Nhân Viên Fulltime,379,Nhân Viên K? Thu?t Vi?n Thông,4
+138,Vo? Tro?ng Hiê?n,Internship-Frontend,380,Nhân Viên V?n Hành Game,5
+139,Nguy?n Trung V?nh,Internship Ux/ui Designer,381,Tr??ng Phòng Marketing - ?i Làm Ngay,5
+140,Nguy?n Minh ??c,L?p Trình Viên,382,Nhân Viên Marketing Sàn Th??ng M?i ?i?n T?,5
+141,Tr?n Anh Thu?n,Th?c T?p Sinh,383,Content Marketing (Nh?n Vi?c Ngay),5
+142,D??ng Thanh Tr??ng,"Sinh Viên Th?c T?p Mobile, Front End Web",384,K? S? / K? Thu?t ?i?n - ?i?n T? - Công Ngh? Thông Tin,5
+143,Tr?n ??i V?,C? V?n D?ch V?,385,K? Thu?t Viên Chuyên S?a Ch?a Máy In - Máy Tính - Máy Photocopy (Thu Nh?p Lên ??n 15 Tri?u),5
+144,Hu?nh T?n Phúc,Th?c T?p Sinh Front End,386,Nhân Viên Kinh Doanh Thu Nh?p Trên 12 Tri?u,5
+145,?oàn Duy Th?c,Ph? B?p King Bbq,387,Nhân Viên Marketing (Nh?n Vi?c Ngay),1
+146,Bùi Ph??ng Nam,Nhân Viên Thi?t K? Website,388,Nhân Viên Giám Sát Xây L?p Vi?n Thông - Xây D?ng,0
+147,Tr?n V?n ??c,"System Admin, It Helpdesk, It Support.",389,K? Thu?t Viên Máy Tính,4
+148,Ph?m ??ng Khoa,K? Thu?t Ph?n M?m,390,Nhân Viên K? Thu?t Kiêm Giao Hàng,1
+149,Tr?n V?n Linh,Nhân Viên It,391,Nhân Viên Thi?t K? Hình ?nh / Ch?nh S?a Video,4
+150,Nguy?n H?u Ph??c,It-It Helpdesk-It Support,392,Nhân Viên IT - K? Thu?t Viên,5
+151,Nguy?n Th? Thu? Anh,Ch?m Sóc Khách Hàng,393,Nhân Viên Content Marketing,5
+152,Ki?u V?n D??ng,Biên Phiên D?ch Ti?ng Trung Qu?c,394,Nhân Viên Thi?t K? ?? H?a,1
+153,Vo? Hô? Thu Tiên,??ng Viên Vi? Tri? Tr???ng Pho?ng,395,Nhân Viên V?n Hành Máy In Kts Bi?t Photoshop,1
+154,Nguy?n V? Bình,Giáo Viên,396,"Nhân Viên K? Thu?t Ph?n C?ng (S?a ch?a - L?p ??t PC, Laptop, Camera, Máy in)",1
+155,Lê H?ng H?nh,Giáo Viên M?m Non,397,Designer,1
+156,Võ Xuân Tr??ng Giang,Qu?n Lí Chi Nhánh,398,"Qu?n 12 - Nhân Viên K? Thu?t Quay Phim, X? Lý Hình ?nh",1
+157,Nguy?n Th? H?ng Nhung,K? S?,399,Ch? Qu?n Chuyên Viên Online Marketing,1
+158,Le Thi Nhung,Sustainability Engineer,400,"Chuyên Viên IT Kiêm B?o Trì - Làm T?i HCM, ??ng Tháp, B?o L?c - Lâm ??ng",1
+159,Bui Cam Thuy,English Teacher,401,Nhân Viên Thi?t K? - ?i Làm Ngay,1
+160,Phan Nguyen Hong Phat,Teaching Assistant,402,Nhân Viên Thi?t K?,1
+161,Nguy?n Th? Thu? Tiên,Thông D?ch Viên,403,Nhân Viên Marketing,1
+162,Nguy?n Ng?c Thanh Th?y,Chuyên Viên Hành Chính Giám Sát D?ch V? V?n Hành,404,Chuyên Viên Kinh Doanh [Thu Nh?p 10M - 30M],1
+163,Nguy?n Th? C?m H??ng,Nhân Viên V?n Phòng,405,Nhân Viên Marketing Online,5
+164,Bùi Nguy?n Hoài Trâm,Giáo Viên Tr? Gi?ng,406,Nhân Viên S?a Máy Tính - Laptop - Macbook - ?i Làm Ngay,1
+165,Mai Hu?nh Khánh,Chuyên Viên T? V?n Tuy?n Sinh,407,Nhân Viên IT,1
+166,Ph?m Th? Lanh,Saleman,408,"Nhân Viên Marketing (Facebook Ads, Google Ads)",5
+167,Hu?nh Th? M? Dung,Teaching Assistant,409,Nhân Viên Marketing Online,5
+168,Tr?n Th? Dung,Nhân Viên V?n Phòng,410,Nhân Viên Thi?t K?,5
+169,Nhung Thi Nguyen,Sales Administrator/purchase,411,Nhân Viên K? Thu?t Máy Tính,1
+170,Cong Pham Dinh,Marketing Executive,412,Nhân Viên IT - ?i Làm Sau T?t,4
+171,Lê Hu?nh Uyên Ph??ng,Nhân Viên T? V?n Tài Chính,413,"Nhân Viên Vi Tính Co.Opmart (Bình Th?nh, Th? ??c)",4
+172,Lâm Kim Nhung,Nhân Viên Telesale,414,Nhân Viên SEO - Marketing Online,5
+173,Nguy?n Th? M?ng Linh,Giáo Viên,415,Nhân Viên Qu?n Tr? Web,1
+174,Ngô Th? Loan,"Th? Ký, Tr? Lý.",416,"L?P TRÌNH PHP _ PHP DEVELOPERS_ BÌNH TH?NH, PHÚ NHU?N, TÂN BÌNH",1
+175,Hu?nh Th? Hoàng Oanh,Ctv X? Lý D? Li?u Online,417,Cán B? Qu?n Lý D? B?,1
+176,Tr??ng Thanh Thu?,Nhân Viên,418,"Nhân Viên K? Thu?t T? V?n ?ào T?o Bán Hàng (???c Training Các V?n ?? V? K? Thu?t, S?n Ph?m)",5
+177,Tr?n Tú Trinh,Freelancer,419,"NV K? Thu?t L?p ??t Camera,t?ng ?ài, M?ng,báo Cháy, Báo Tr?m, C?a T?, Ch?m Công / Thi Công Dây",1
+178,Nguy?n Nhã Th?,Office Staff,420,"Nhân Viên Kinh Doanh Ph?n M?m, Thi?t K? Website",1
+179,Ph?m Hi?n Tài,Giáo Viên Th? D?c,421,Nhân Viên SEO Marketing Website Facebook,1
+180,Ngô Thúy H??ng,Th?c T?p Sinh,422,Nhân Viên IT _ Qu?n Tr? Web,5
+121,Nguyen Minh Hieu,Designer,423,Nhân Viên Thi?t K? ?? H?a,5
+122,Ngô Thùy Th??ng,Information Technology Engineer,424,"Nhân Viên K? Thu?t (Trung Tâm B?o Hành Canon) Làm Vi?c T?i HCM, Bình Thu?n, ??ng Nai, Bình D??ng",5
+123,Dam Gia Huy,It Staff,425,Nhân Viên Marketing Online (Thu Nh?p ??n 20 Tri?u / Tháng),5
+124,V? Chính Tr?c,Th?c T?p Sinh Thi?t K? Website,426,Nhân Viên Data Analyst (Marketing),1
+125,Bùi Th? Nguy?t,Nhân Viên K? Ho?ch,427,Nhân Viên Thi?t K? ?? H?a,1
+128,Tr?n Th? Kim Oanh,Nhân Viên V?n Phòng,428,Nhân Viên Thi?t K? Truy?n Thông 2D,1
+129,Hu?nh Kim ??c,K? Thu?t,429,Nhân Viên IT Helpdesk - Support,1
+130,Tr?n Thanh Hùng,Nhân Viên V?n Phòng Ti?ng Trung,430,Tr? Lý Giám ??c C?p Cao,4
+131,Lê Minh Tâm,Nhân Viên Nh?p Li?u,431,"Nhân Viên Nh?p Li?u (Bi?t Ti?ng Nh?t, Không Yêu C?u Kinh Nghi?m)",5
+132,Le Nguyen Quoc Trung,Intern,432,Nhân Viên V?n Phòng Biêt Ti?ng Trung ??????????,1
+133,Tr?n V?n Vinh,Nhân Viên Kinh Doanh,433,Nhân Viên V?n Phòng Bi?t Ti?ng Anh Ho?c Ti?ng Hoa,1
+134,Nguy?n Th? Qu?nh Chi,Nhân Viên Tuy?n D?ng Vàtruy?n Thông,434,Giao D?ch Viên (Không Yêu C?u Kinh Nghi?m),1
+135,Nguy?n Phúc ??t,Interns It,435,Giám ??c Tài Chính,3
+136,Lê Anh D?ng,H?c Vi?c,436,Nhân Viên Xu?t Nh?p Kh?u,3
+137,Nguy?n Th?c,Nhân Viên Fulltime,437,Nhân Viên Theo Dõi ??n Hàng,3
+138,Vo? Tro?ng Hiê?n,Internship-Frontend,438,K? Toán Bán Hàng Và Kho Có Kinh Nghi?m,1
+139,Nguy?n Trung V?nh,Internship Ux/ui Designer,439,K? Toán C?a Hàng,1
+140,Nguy?n Minh ??c,L?p Trình Viên,440,K? Toán T?ng H?p,1
+141,Tr?n Anh Thu?n,Th?c T?p Sinh,441,Nhân Viên Kinh Doanh Thu Nh?p Trên 10 Tri?u,5
+142,D??ng Thanh Tr??ng,"Sinh Viên Th?c T?p Mobile, Front End Web",442,Tr? Lý Qu?n Lý Kho Làm T?i Bình D??ng,4
+143,Tr?n ??i V?,C? V?n D?ch V?,443,Tr? Lý Kinh Doanh (Sales Admin),5
+144,Hu?nh T?n Phúc,Th?c T?p Sinh Front End,444,Th? Ký Phòng Lab - Bình D??ng,1
+145,?oàn Duy Th?c,Ph? B?p King Bbq,445,Nhân Viên K? Toán Kho,1
+146,Bùi Ph??ng Nam,Nhân Viên Thi?t K? Website,446,Nam - Nhân Viên Th?ng Kê - Bình D??ng,1
+147,Tr?n V?n ??c,"System Admin, It Helpdesk, It Support.",447,K? Toán Viên - Không Yêu C?u Kinh Nghi?m,1
+148,Ph?m ??ng Khoa,K? Thu?t Ph?n M?m,448,K? Toán Nh?p Li?u Ch?ng T?,1
+149,Tr?n V?n Linh,Nhân Viên It,449,K? Toán Viên - ?i Làm Ngay,1
+150,Nguy?n H?u Ph??c,It-It Helpdesk-It Support,450,Nhân Viên K? Toán Thu?,1
+151,Nguy?n Th? Thu? Anh,Ch?m Sóc Khách Hàng,451,Nhân Viên Tuy?n D?ng ?ào T?o,5
+152,Ki?u V?n D??ng,Biên Phiên D?ch Ti?ng Trung Qu?c,452,Chuyên Viên Th?m ??nh Và Phê Duy?t H? S? Tín D?ng,4
+153,Vo? Hô? Thu Tiên,??ng Viên Vi? Tri? Tr???ng Pho?ng,453,Nhân Viên Nh?p D? Li?u T?i Nhà - Nh?n Vi?c Ngay,4
+154,Nguy?n V? Bình,Giáo Viên,454,Giao D?ch Viên,0
+155,Lê H?ng H?nh,Giáo Viên M?m Non,455,Nhân Viên Ch?ng T?,1
+156,Võ Xuân Tr??ng Giang,Qu?n Lí Chi Nhánh,456,Nhân Viên Kho Hàng Ph? Ki?n Ô Tô,1
+157,Nguy?n Th? H?ng Nhung,K? S?,457,Nhân Viên Nhân S?,1
+158,Le Thi Nhung,Sustainability Engineer,458,Nhân Viên K? Toán,1
+159,Bui Cam Thuy,English Teacher,459,Nhân Viên K? Toán T?ng H?p - Th? Xã B?n Cát,1
+160,Phan Nguyen Hong Phat,Teaching Assistant,460,Nhân Viên Hành Chính V?n Phòng Bi?t Ti?ng Anh,5
+161,Nguy?n Th? Thu? Tiên,Thông D?ch Viên,461,Nhân Viên V?n Phòng Không C?n Kinh Nghi?m,3
+162,Nguy?n Ng?c Thanh Th?y,Chuyên Viên Hành Chính Giám Sát D?ch V? V?n Hành,462,Nhân Viên V?n Phòng (Bi?t Ti?ng Trung),4
+163,Nguy?n Th? C?m H??ng,Nhân Viên V?n Phòng,463,Chuyên Viên K? Toán,5
+164,Bùi Nguy?n Hoài Trâm,Giáo Viên Tr? Gi?ng,464,Nhân Viên Sale Admin,5
+165,Mai Hu?nh Khánh,Chuyên Viên T? V?n Tuy?n Sinh,465,Nam K? Toán T?i Bình D??ng (Không C?n Kinh Nghi?m),1
+166,Ph?m Th? Lanh,Saleman,466,Nhân Viên Kinh Doanh L??ng Trên 10 Tri?u (Làm Vi?c T?i Hà N?i),5
+167,Hu?nh Th? M? Dung,Teaching Assistant,467,Nhân Viên Sales Admin (H? Tr? Kinh Doanh),5
+168,Tr?n Th? Dung,Nhân Viên V?n Phòng,468,Nhân Viên Nhân S?,5
+169,Nhung Thi Nguyen,Sales Administrator/purchase,469,Admin Kho,1
+170,Cong Pham Dinh,Marketing Executive,470,Nhân Viên Tuy?n D?ng,1
+171,Lê Hu?nh Uyên Ph??ng,Nhân Viên T? V?n Tài Chính,471,Nhân Viên Thu Mua T?i Bình D??ng,5
+172,Lâm Kim Nhung,Nhân Viên Telesale,472,Nhân Viên Mua Hàng,5
+173,Nguy?n Th? M?ng Linh,Giáo Viên,473,Nhân Viên ?i?u Hành V?n T?i - Nh?n Vi?c Ngay,1
+174,Ngô Th? Loan,"Th? Ký, Tr? Lý.",474,Nhân Viên Admin K? Thu?t,1
+175,Hu?nh Th? Hoàng Oanh,Ctv X? Lý D? Li?u Online,475,Nhân Viên Kho,3
+176,Tr??ng Thanh Thu?,Nhân Viên,476,Nhân Viên K? Toán  - ?i Làm Ngay (Biên Hòa ??ng Nai),1
+177,Tr?n Tú Trinh,Freelancer,477,"Nhân Viên Tuy?n D?ng (Q9, ?i Làm Ngay)",5
+178,Nguy?n Nhã Th?,Office Staff,478,Nhân Viên Nhân S?,5
+179,Ph?m Hi?n Tài,Giáo Viên Th? D?c,479,Tr??ng Phòng Nhân S? T?i Bình D??ng,1
+180,Ngô Thúy H??ng,Th?c T?p Sinh,480,Nhân Viên H? Tr? Kinh Doanh (Sale Admin),5
+121,Nguyen Minh Hieu,Designer,481,"Nhân Viên T? V?n Môi Tr??ng, An Toàn Lao ??ng (Telesales) - ?i Làm Ngay",1
+122,Ngô Thùy Th??ng,Information Technology Engineer,482,K? Toán Thanh Toán - Công N?,1
+123,Dam Gia Huy,It Staff,483,"Giáo Viên Gi?ng D?y K? N?ng S?ng (Không C?n Kinh Nghi?m, ???c ?ào T?o) T?i H? Chí Minh Và 23 Chi Nhánh Kh?p C? N??c",1
+124,V? Chính Tr?c,Th?c T?p Sinh Thi?t K? Website,484,K? Toán X??ng - ?i Làm Ngay,1
+125,Bùi Th? Nguy?t,Nhân Viên K? Ho?ch,485,Nhân Viên Công V? Môi Tr??ng,1
+128,Tr?n Th? Kim Oanh,Nhân Viên V?n Phòng,486,Nhân Viên Th? Kho - B?n Cát Bình D??ng,1
+129,Hu?nh Kim ??c,K? Thu?t,487,Nhân Viên Theo Dõi ??n Hàng T?i B?n Cát- Bình D??ng - ?i Làm Ngay,1
+130,Tr?n Thanh Hùng,Nhân Viên V?n Phòng Ti?ng Trung,488,Nhân Viên Tuy?n D?ng (Bình D??ng),1
+131,Lê Minh Tâm,Nhân Viên Nh?p Li?u,489,Nhân Viên K? Toán Hành Chính,5
+132,Le Nguyen Quoc Trung,Intern,490,"Nhân Viên Nhân S? C&B (G?p, Nh?n Vi?c Ngay)",5
+133,Tr?n V?n Vinh,Nhân Viên Kinh Doanh,491,"?i?u Ph?i V?n T?i (Xe T?i, Xe Container)",3
+134,Nguy?n Th? Qu?nh Chi,Nhân Viên Tuy?n D?ng Vàtruy?n Thông,492,"Nhân Viên K? Toán- Làm T?i Th? D?u M?t, Bình D??ng",0
+135,Nguy?n Phúc ??t,Interns It,493,Nhân Viên K? Toán T?ng H?p (G?n Big C D? An),1
+136,Lê Anh D?ng,H?c Vi?c,494,Nhân Viên Phòng Nghi?p V? - Ngành G?,5
+137,Nguy?n Th?c,Nhân Viên Fulltime,495,Nhân Viên Tính Giá Thành S?n Ph?m,5
+138,Vo? Tro?ng Hiê?n,Internship-Frontend,496,Nhân Viên V?n Phòng Bi?t Ti?ng Nh?t,1
+139,Nguy?n Trung V?nh,Internship Ux/ui Designer,497,Nhân Viên Kinh Doanh Làm Vi?c Bình D??ng,1
+140,Nguy?n Minh ??c,L?p Trình Viên,498,K? Toán Công N?- ?i Làm Ngay,1
+141,Tr?n Anh Thu?n,Th?c T?p Sinh,499,K? Toán Viên,5
+142,D??ng Thanh Tr??ng,"Sinh Viên Th?c T?p Mobile, Front End Web",500,Nhân Viên V?n Th? Và SEO Website,5
+143,Tr?n ??i V?,C? V?n D?ch V?,501,Nhân Viên Xu?t Nh?p Kh?u,1
+144,Hu?nh T?n Phúc,Th?c T?p Sinh Front End,502,Nhân Viên Hành Chính Nhân S? T?i Thu?n An Bình D??ng,1
+145,?oàn Duy Th?c,Ph? B?p King Bbq,503,Nhân Viên V?n Phòng Bi?t Ti?ng Trung (Làm Vi?c T?i C? Chi),0
+146,Bùi Ph??ng Nam,Nhân Viên Thi?t K? Website,504,Nhân Viên Kinh Doanh Tour N?i ??a Khách ?oàn,1
+147,Tr?n V?n ??c,"System Admin, It Helpdesk, It Support.",505,Sales Admin T?i Bình D??ng (Có Xe ??a R??c T? HCM),1
+148,Ph?m ??ng Khoa,K? Thu?t Ph?n M?m,506,K? Toán T?ng H?p (L??ng 12-15 Tri?u),5
+149,Tr?n V?n Linh,Nhân Viên It,507,Nhân Viên Quy Trình S?n Xu?t B.O.M,5
+150,Nguy?n H?u Ph??c,It-It Helpdesk-It Support,508,Lái Xe T?ng Giám ??c - L??ng T?i 15 Tri?u,1
+151,Nguy?n Th? Thu? Anh,Ch?m Sóc Khách Hàng,509,Nhân Viên V?n Phòng - Có Ti?ng Anh Ho?c Ti?ng Hoa,5
+152,Ki?u V?n D??ng,Biên Phiên D?ch Ti?ng Trung Qu?c,510,Nhân Viên K? Toán - ?i Làm Ngay (Thu?n An-Bình D??ng),4
+153,Vo? Hô? Thu Tiên,??ng Viên Vi? Tri? Tr???ng Pho?ng,511,Nhân Viên K? Toán Giá Thành,4
+154,Nguy?n V? Bình,Giáo Viên,512,K? Toán N?i B?,1
+155,Lê H?ng H?nh,Giáo Viên M?m Non,513,Nhân Viên Th?ng Kê S?n Xu?t,1
+156,Võ Xuân Tr??ng Giang,Qu?n Lí Chi Nhánh,514,Nhân Viên Nhân S?,5
+157,Nguy?n Th? H?ng Nhung,K? S?,515,Nhân Viên Hành Chánh Nhân S?,1
+158,Le Thi Nhung,Sustainability Engineer,516,Nhân Viên Mua Hàng N?i ??a,1
+159,Bui Cam Thuy,English Teacher,517,Nhân Viên Hành Chính Nhân S?,1
+160,Phan Nguyen Hong Phat,Teaching Assistant,518,Nhân Viên K? Toán T?i Bình D??ng,3
+161,Nguy?n Th? Thu? Tiên,Thông D?ch Viên,519,Nhân Viên K? Toán,1
+162,Nguy?n Ng?c Thanh Th?y,Chuyên Viên Hành Chính Giám Sát D?ch V? V?n Hành,520,Nhân Viên Nhân S?,5
+163,Nguy?n Th? C?m H??ng,Nhân Viên V?n Phòng,521,K? Toán T?ng H?p (L??ng 15 - 20 Tri?u),5
+164,Bùi Nguy?n Hoài Trâm,Giáo Viên Tr? Gi?ng,522,K? Toán T?ng H?p L??ng Trên 10 Tri?u,5
+165,Mai Hu?nh Khánh,Chuyên Viên T? V?n Tuy?n Sinh,523,K? Toán Tr??ng,5
+166,Ph?m Th? Lanh,Saleman,524,Phiên D?ch Ti?ng Trung - T?i C? Chi,5
+167,Hu?nh Th? M? Dung,Teaching Assistant,525,Nhân Viên Tuy?n D?ng Và ?ào T?o,5
+168,Tr?n Th? Dung,Nhân Viên V?n Phòng,526,N? - Nhân S? - Biêt Ti?ng Hoa,5
+169,Nhung Thi Nguyen,Sales Administrator/purchase,527,Thông D?ch Viên Ti?ng Hàn (L??ng T? 18Tr),1
+170,Cong Pham Dinh,Marketing Executive,528,Tr? Lí Ti?ng Trung (Tribeco),0
+171,Lê Hu?nh Uyên Ph??ng,Nhân Viên T? V?n Tài Chính,529,Tr? Lý Kinh Doanh Bi?t Ti?ng Trung L??ng T? 10 Tri?u,4
+172,Lâm Kim Nhung,Nhân Viên Telesale,530,"Nhân Viên K? Toán Bán Hàng (Qu?n 9, HCM, ?i Làm Ngay)",4
+173,Nguy?n Th? M?ng Linh,Giáo Viên,531,Nhân Viên Sale Admin,1
+174,Ngô Th? Loan,"Th? Ký, Tr? Lý.",532,Nhân Viên ?i?u Hành Giao Nh?n,1
+175,Hu?nh Th? Hoàng Oanh,Ctv X? Lý D? Li?u Online,533,Ch?m Sóc Khách Hàng / Sales Admin,5
+176,Tr??ng Thanh Thu?,Nhân Viên,534,L? Tân Nhà M?u (Bình D??ng),5
+177,Tr?n Tú Trinh,Freelancer,535,Nhân Viên Nhân S?,3
+178,Nguy?n Nhã Th?,Office Staff,536,Nhân Viên Sales Admin,5
+179,Ph?m Hi?n Tài,Giáo Viên Th? D?c,537,Nhân Viên K? Toán - T?i Bình D??ng,1
+180,Ngô Thúy H??ng,Th?c T?p Sinh,538,Nhân Viên Ph? Vi?c V?n Phòng,5
+139,Nguy?n Trung V?nh,Internship Ux/ui Designer,539,Nhân Viên Th?ng Kê Ch?t L??ng,1
+140,Nguy?n Minh ??c,L?p Trình Viên,540,"Nhân Viên Nhân S? - Tính L??ng, Bhxh (Làm Vi?c T?i Công Ty TNHH Cf Vina, Kcn M? Ph??c 2, B?n Cát, Bình D??ng)",1
+141,Tr?n Anh Thu?n,Th?c T?p Sinh,541,Nhân Viên Ch?ng T? (Khai Báo H?i Quan),1
+142,D??ng Thanh Tr??ng,"Sinh Viên Th?c T?p Mobile, Front End Web",542,K? Toán T?ng H?p Kiêm Thu? Làm Vi?c Bình D??ng,1
+143,Tr?n ??i V?,C? V?n D?ch V?,543,Nhân Viên Nhân S?,5
+144,Hu?nh T?n Phúc,Th?c T?p Sinh Front End,544,Tr? Lý Bi?t Ti?ng Hàn Ho?c Ti?ng Anh,1
+145,?oàn Duy Th?c,Ph? B?p King Bbq,545,Tr? Lý Giám ??c - Ti?ng Trung,1
+146,Bùi Ph??ng Nam,Nhân Viên Thi?t K? Website,546,Nhân Viên V?n Phòng (Bi?t Ti?ng Anh),1
+147,Tr?n V?n ??c,"System Admin, It Helpdesk, It Support.",547,Nhân Viên Hành Chính Nhân S?,3
+148,Ph?m ??ng Khoa,K? Thu?t Ph?n M?m,548,Nhân Viên V?n Phòng Bi?t Ti?ng Hoa (Nam),4

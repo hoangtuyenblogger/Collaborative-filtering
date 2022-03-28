@@ -1,0 +1,963 @@
+ID,NAME,JOB_NAME,LOCATION,EX
+121,Nguyen Minh Hieu,Designer,Hồ Chí Minh,Chưa có
+122,Ngô Thùy Thương,Information Technology Engineer,Hồ Chí Minh,Dưới 1 năm
+123,Dam Gia Huy,It Staff,Hồ Chí Minh,Dưới 1 năm
+124,Vũ Chính Trực,Thực Tập Sinh Thiết Kế Website,Hồ Chí Minh,Chưa có
+125,Bùi Thị Nguyệt,Nhân Viên Kế Hoạch,"Hồ Chí Minh, Bình Phước",5 năm trở lên
+126,Nguyễn Trường An,Nhân Viên Bán Hàng,Hồ Chí Minh,1 năm
+127,Lê Văn Cường,Khác,Hồ Chí Minh,3 năm
+128,Trần Thị Kim Oanh,Nhân Viên Văn Phòng,Hồ Chí Minh,1 năm
+129,Huỳnh Kim Đức,Kỹ Thuật,Hồ Chí Minh,Chưa có
+130,Trần Thanh Hùng,Nhân Viên Văn Phòng Tiếng Trung,Hồ Chí Minh,4 năm
+131,Lê Minh Tâm,Nhân Viên Nhập Liệu,Hồ Chí Minh,Dưới 1 năm
+132,Le Nguyen Quoc Trung,Intern,Hồ Chí Minh,Chưa có
+133,Trần Văn Vinh,Nhân Viên Kinh Doanh,"Hồ Chí Minh, Bình Định, Quảng Ngãi, Hà Nội, Đà Nẵng",Dưới 1 năm
+134,Nguyễn Thị Quỳnh Chi,Nhân Viên Tuyển Dụng Vàtruyền Thông,"Hồ Chí Minh, Hà Nội",Chưa có
+135,Nguyễn Phúc Đạt,Interns It,Hồ Chí Minh,Chưa có
+136,Lê Anh Dũng,Học Việc,Hồ Chí Minh,Chưa có
+137,Nguyễn Thức,Nhân Viên Fulltime,Hồ Chí Minh,Dưới 1 năm
+138,Võ Trọng Hiển,Internship-Frontend,Hồ Chí Minh,Chưa có
+139,Nguyễn Trung Vĩnh,Internship Ux/ui Designer,Hồ Chí Minh,Chưa có
+140,Nguyễn Minh Đức,Lập Trình Viên,Hồ Chí Minh,Chưa có
+141,Trần Anh Thuận,Thực Tập Sinh,Hồ Chí Minh,Dưới 1 năm
+142,Dương Thanh Trường,"Sinh Viên Thực Tập Mobile, Front End Web",Hồ Chí Minh,2 năm
+143,Trần Đại Vĩ,Cố Vấn Dịch Vụ,Hồ Chí Minh,Chưa có
+144,Huỳnh Tấn Phúc,Thực Tập Sinh Front End,Hồ Chí Minh,Chưa có
+145,Đoàn Duy Thức,Phụ Bếp King Bbq,Hồ Chí Minh,Chưa có
+146,Bùi Phương Nam,Nhân Viên Thiết Kế Website,"Hồ Chí Minh, Hà Nội",Dưới 1 năm
+147,Trần Văn Đức,"System Admin, It Helpdesk, It Support.","Hồ Chí Minh, Hà Nội",Dưới 1 năm
+148,Phạm Đăng Khoa,Kỹ Thuật Phần Mềm,Hồ Chí Minh,2 năm
+149,Trần Văn Linh,Nhân Viên It,Hồ Chí Minh,5 năm trở lên
+150,Nguyễn Hữu Phước,It-It Helpdesk-It Support,Hồ Chí Minh,5 năm trở lên
+151,Nguyễn Thị Thuỳ Anh,Chăm Sóc Khách Hàng,Hồ Chí Minh,5 năm trở lên
+152,Kiều Văn Dương,Biên Phiên Dịch Tiếng Trung Quốc,"Bình Dương, Hồ Chí Minh, Hà Nội",5 năm trở lên
+153,Võ Hồ Thu Tiên,Ứng Viên Vị Trí Trưởng Phòng,Hồ Chí Minh,5 năm trở lên
+154,Nguyễn Vủ Bình,Giáo Viên,Hồ Chí Minh,1 năm
+155,Lê Hồng Hạnh,Giáo Viên Mầm Non,Hồ Chí Minh,3 năm
+156,Võ Xuân Trường Giang,Quản Lí Chi Nhánh,Hồ Chí Minh,Chưa có
+157,Nguyễn Thị Hồng Nhung,Kỹ Sư,Hồ Chí Minh,Chưa có
+158,Le Thi Nhung,Sustainability Engineer,"Hồ Chí Minh, Hà Nội, Hải Dương",3 năm
+159,Bui Cam Thuy,English Teacher,Hồ Chí Minh,3 năm
+160,Phan Nguyen Hong Phat,Teaching Assistant,Hồ Chí Minh,Chưa có
+161,Nguyễn Thị Thuỳ Tiên,Thông Dịch Viên,"Hồ Chí Minh, Cần Thơ",2 năm
+162,Nguyễn Ngọc Thanh Thủy,Chuyên Viên Hành Chính Giám Sát Dịch Vụ Vận Hành,Hồ Chí Minh,5 năm trở lên
+163,Nguyễn Thị Cẩm Hương,Nhân Viên Văn Phòng,"Hồ Chí Minh, Đồng Nai",Dưới 1 năm
+164,Bùi Nguyễn Hoài Trâm,Giáo Viên Trợ Giảng,"Phú Yên, Hồ Chí Minh, Bình Định, Khánh Hòa, Đà Nẵng",Chưa có
+165,Mai Huỳnh Khánh,Chuyên Viên Tư Vấn Tuyển Sinh,Hồ Chí Minh,5 năm trở lên
+166,Phạm Thị Lanh,Saleman,"Hồ Chí Minh, Hà Nội, Đà Nẵng",Chưa có
+167,Huỳnh Thị Mỹ Dung,Teaching Assistant,"Hồ Chí Minh, Sóc Trăng, Cần Thơ, Cà Mau, Bạc Liêu",Chưa có
+168,Trần Thị Dung,Nhân Viên Văn Phòng,Hồ Chí Minh,Dưới 1 năm
+169,Nhung Thi Nguyen,Sales Administrator/purchase,Hồ Chí Minh,5 năm trở lên
+170,Cong Pham Dinh,Marketing Executive,Hồ Chí Minh,1 năm
+171,Lê Huỳnh Uyên Phương,Nhân Viên Tư Vấn Tài Chính,Hồ Chí Minh,2 năm
+172,Lâm Kim Nhung,Nhân Viên Telesale,Hồ Chí Minh,2 năm
+173,Nguyễn Thị Mộng Linh,Giáo Viên,Hồ Chí Minh,5 năm trở lên
+174,Ngô Thể Loan,"Thư Ký, Trợ Lý.","Hồ Chí Minh, Lâm Đồng",Dưới 1 năm
+175,Huỳnh Thị Hoàng Oanh,Ctv Xử Lý Dữ Liệu Online,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Đồng Tháp, An Giang, Cần Thơ",Dưới 1 năm
+176,Trương Thanh Thuỷ,Nhân Viên,Hồ Chí Minh,5 năm trở lên
+177,Trần Tú Trinh,Freelancer,"Hồ Chí Minh, Khánh Hòa",Chưa có
+178,Nguyễn Nhã Thư,Office Staff,Hồ Chí Minh,1 năm
+179,Phạm Hiền Tài,Giáo Viên Thể Dục,Hồ Chí Minh,3 năm
+180,Ngô Thúy Hương,Thực Tập Sinh,Hồ Chí Minh,Dưới 1 năm
+181,Trần Phan Bích Ngân,-----------------------,Hồ Chí Minh,Chưa có
+182,Nguyễn Minh Thư,Nhân Viên Partime,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, An Giang, Hà Nội, Bến Tre",Chưa có
+183,Trương Thị Hồng Hà,Chuyên Gia Thiền Tâm Lý Trị Liệu,Hồ Chí Minh,5 năm trở lên
+184,Phan Thị Thanh Trúc,"Nhân Sự, Hành Chính Văn Phòng",Hồ Chí Minh,5 năm trở lên
+185,Nguyễn Thị Nhung,Giáo Viên Mần Non,"Hồ Chí Minh, Đà Nẵng",5 năm trở lên
+186,Nguyễn Thị Phương Thảo,Quản Lý Ca,Hồ Chí Minh,2 năm
+187,Nguyễn Châu Giàu,Nguyễn Châu Giàu,Hồ Chí Minh,4 năm
+188,Nguyễn Thành Tiến,Nhân Viên Hành Chính Văn Phòng,Hồ Chí Minh,Dưới 1 năm
+189,Nguyễn Thành Tiến,Nhân Viên Hành Chính / Văn Phòng,Hồ Chí Minh,Dưới 1 năm
+190,Lê Thị Như Quỳnh,Trình Dược Viên Kênh Etc,"Hồ Chí Minh, Bình Định, Quảng Ngãi, Quảng Nam, Đà Nẵng",Chưa có
+191,Phạm Hải Yến,Trưởng Phòng Nhân Sự,"Bình Dương, Hồ Chí Minh, Long An",5 năm trở lên
+192,Đặng Phú Thịnh,Nhân Viên Giáo Vụ,Hồ Chí Minh,3 năm
+193,Huỳnh Ngọc Mỹ Hồng,Lynn Huynh,Hồ Chí Minh,4 năm
+194,Lê Duy Toàn,Nhân Viên Bán Hàng,"Hồ Chí Minh, Gia Lai, Kon Tum, Thừa Thiên Huế, Đà Nẵng",4 năm
+195,Nguyễn Thị Lắm,Công Việc Tiếng Nhật N3,Hồ Chí Minh,2 năm
+196,Hồ Thị Lộc,Nhân Viên Hành Chánh Nhân Sự,"Vĩnh Long, Hồ Chí Minh",3 năm
+197,Tran Thi Vu Vi,Full-Time Officer,Hồ Chí Minh,3 năm
+198,Trương Thị Thu Trang,"Nvvp, Qc, Gv, Quản Lý,trợ Lý Tiếng Hàn, Nv Truyền Thông",Hồ Chí Minh,2 năm
+199,Phạm Lê Như Quỳnh,"Giáo Viên, Trợ Lí",Hồ Chí Minh,4 năm
+200,Đỗ Thị Vân Anh,Kỹ Thuật Viên Phun Xăm,"Hồ Chí Minh, Bình Thuận, Nam Định, Hà Nội, Đồng Nai",1 năm
+201,Trần Thanh Thúy Nga,Biên Dịch Viên,Hồ Chí Minh,1 năm
+202,Đặng Thị Hoài Trâm,Hiệu Trưởng Trường Mầm Non,Hồ Chí Minh,5 năm trở lên
+203,Phạm Bá Diệm,Nhân Viên Tư Vấn Tuyển Sinh,Hồ Chí Minh,Dưới 1 năm
+204,Võ Thị Mỹ Ái,Nhân Viên Bán Thuốc,"Hồ Chí Minh, Thừa Thiên Huế, Hà Nội, Đà Nẵng, Lâm Đồng",Chưa có
+205,Phạm Thị Hoàng Hoa,Nhân Viên Văn Phòng,Hồ Chí Minh,5 năm trở lên
+206,Lý Mỹ Kim,Nhân Viên Học Vụ,Hồ Chí Minh,Dưới 1 năm
+207,Lầu Hà Sâm Quí,Giáo Viên Thpt Môn Vật Lý,Hồ Chí Minh,Chưa có
+208,Vũ Văn Đức,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Hà Nội, Hải Phòng, Hải Dương",2 năm
+209,Daisy Nguyen,Content Writer,Hồ Chí Minh,5 năm trở lên
+210,Lê Hồ Phát Đạt,Huấn Luyện Viên,Hồ Chí Minh,3 năm
+211,Trần Thị Thúy Kiều,Giáo Viên Mầm Non,Hồ Chí Minh,5 năm trở lên
+212,Đỗ Thị Hà,Ứng Tuyển Vị Trí Lễ Tânphòng Khám,"Hồ Chí Minh, Gia Lai, Hà Nội, Quảng Trị, Đà Nẵng",Chưa có
+213,Nguyễn Thị Kim Ngân,Nhân Viên Thu Ngân,Hồ Chí Minh,4 năm
+214,Trần Thị Thảo Vi,Nhân Viên Tư Vấn (Sales),Hồ Chí Minh,1 năm
+215,Nguyễn Thị Thu Hà,Nhân Viên Văn Phòng,Hồ Chí Minh,5 năm trở lên
+216,Trần Thị Cẩm Nhung,Nhân Viên Biét Tiếng Trung,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Bình Thuận, Khánh Hòa, Lâm Đồng",5 năm trở lên
+217,Chề Triều Sánh,Phiên Dịch Viên Tiếng Trung/ Giáo Viên Tiếng Trung,Hồ Chí Minh,2 năm
+218,Đỗ Thị Hồng Linh,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+219,Trần Thị Hồng Nhung,Chưa Cập Nhật,Hồ Chí Minh,5 năm trở lên
+220,Nguyễn Thị Cẩm Tiên,Giáo Viên Mầm Non,Hồ Chí Minh,4 năm
+221,Phan Thi Minh Thong,English Teacher,Hồ Chí Minh,5 năm trở lên
+222,Dương Thị Kim Ngân,Giáo Viên Tiếng Anh,"Vĩnh Long, Hồ Chí Minh, Kiên Giang, An Giang, Hà Nội",3 năm
+223,Văn Thị Hoàn,Biên Phiên Dịch,Hồ Chí Minh,Chưa có
+224,Cu Vu Hanh An,Customer Service,Hồ Chí Minh,Chưa có
+225,Nguyễn Thị Huỳnh Mai,Nhân Viên Tư Vấn Tuyển Sinh,Hồ Chí Minh,Chưa có
+226,Nguyễn Thị Vân,Giáo Viên Toán,"Hồ Chí Minh, Thanh Hóa, Hà Nội",1 năm
+227,Đặng Thị Bích Ngọc,Giáo Viên Tiếng Anh,"Hồ Chí Minh, Cần Thơ",Chưa có
+228,Nguyễn Ánh Ngọc,Nhân Viên Kinh Doanh,"Hồ Chí Minh, Bình Định, Gia Lai, Quảng Nam, Đà Nẵng",2 năm
+229,Lê Minh Đức,Trưởng Phòng Hành Chính Nhân Sự,"Hồ Chí Minh, Thừa Thiên Huế, Quảng Nam, Quảng Trị, Đà Nẵng",5 năm trở lên
+230,Lê Thị Thúy Huỳnh,Nhân Viên Văn Phòng,"Hồ Chí Minh, Cần Thơ, Cà Mau",Chưa có
+231,Nguyễn Văn Minh,Nhân Viên Tư Vấn (Telesales),Hồ Chí Minh,Dưới 1 năm
+232,Nguyễn Thị Tú Oanh,Giáo Viên/hiệu Phótrường Mầm Non,Hồ Chí Minh,5 năm trở lên
+233,Huỳnh Nhật Minh Trang,Giáo Viên Dạy Part Time Ở Global Art,Hồ Chí Minh,Chưa có
+234,Nguyễn Thị Hòa,Kế Toán Tổng Hợp,"Hồ Chí Minh, Đà Nẵng",3 năm
+235,Vũ Ái Quỳnh,Coach,Hồ Chí Minh,Chưa có
+236,Ngô Ngọc Thảo Anh,Giáo Viên Toán,Hồ Chí Minh,1 năm
+237,Nguyễn Đình Nghi,Nhân Viên Trang Trí Tiệc,Hồ Chí Minh,1 năm
+238,Trần Huỳnh Phương Du,English Teacher,Hồ Chí Minh,Chưa có
+239,Phạm Thị Thu Thạnh,Cộng Tác Viên,Hồ Chí Minh,1 năm
+240,Võ Thị Phượng Hảo,"Công Việc Văn Phòng, Quản Lý",Hồ Chí Minh,5 năm trở lên
+241,Trần Hải My,Ứng Tuyển Ctv,Hồ Chí Minh,Dưới 1 năm
+242,Nguyễn Thanh Thuỳ,Giáo Viên,Hồ Chí Minh,2 năm
+243,Trần Thị Lệ Mỹ,Chuyên Viên Training/coaching,Hồ Chí Minh,2 năm
+244,Nguyen Thi Hong Tham,Service Help Desk,"Hồ Chí Minh, Cần Thơ",Chưa có
+245,Nguyễn Khánh Thi,Giáo Viên Mầm Non,Hồ Chí Minh,Dưới 1 năm
+246,Hồ Huỳnh Thanh Thúy,Nhân Viên Bán Hàng,"Hồ Chí Minh, Long An",4 năm
+247,Nguyễn Ngọc Hân,Giáo Viên Mầm Non,"Trà Vinh, Hồ Chí Minh, Sóc Trăng, Cần Thơ, Bến Tre",Chưa có
+248,Lý Phương Trinh,Ctv Dịch Thuật Tiếng Hàn,Hồ Chí Minh,Dưới 1 năm
+249,Nguyen Dinh Nhu Ha,Hourly Exam Compliance Observer,Hồ Chí Minh,5 năm trở lên
+250,Huynh Thi Nhu,English Teacher,"Hồ Chí Minh, Hà Nội, Đà Nẵng",Chưa có
+251,Lan Vy Tran,English Teacher/ Teaching Assistant,Hồ Chí Minh,3 năm
+252,Lê Thị Kiều,Thư Ký- Nhân Viên Kinh Doanh,Hồ Chí Minh,1 năm
+253,Hồng Thuỵ Quỳnh Như,Nhân Viên,"Bình Dương, Hồ Chí Minh",5 năm trở lên
+254,Hà Thị Thuỷ Tiên,Hành Chính-Văn Phòng,"Hồ Chí Minh, Bắc Ninh",2 năm
+255,Phanngonhatdinh,Nhân Viên,Hồ Chí Minh,Dưới 1 năm
+256,Phạm Thị Kim Khuyên,Trưởng Ban Tuyển Sinh,Hồ Chí Minh,5 năm trở lên
+257,Nguyễn Thị Duy Linh,Nhân Viên Kế Toán,"Hồ Chí Minh, Tiền Giang, Đồng Nai, Bến Tre",Chưa có
+258,Nguyễn Khánh Ngọc,Teaching Assistant,Hồ Chí Minh,Chưa có
+259,Phạm Như Ý,Phòng Đào Tạo,Hồ Chí Minh,5 năm trở lên
+260,Phạm Gia Hân,Vị Trí Ứng Tuyển: Thực Tập Sinh,"Hồ Chí Minh, Đồng Nai",Chưa có
+261,Thạch Thị Chanh Thu,Giáo Viên Mầm Non,Hồ Chí Minh,Chưa có
+262,Đặng Thị Mỹ Linh,Giáo Viên,Hồ Chí Minh,Dưới 1 năm
+263,Le Hoang Nguyen Trang,Assistant Professor,Hồ Chí Minh,Chưa có
+264,Vu Minh Ngoc,Tourism And Hospitality Management Student Rmit University,Hồ Chí Minh,2 năm
+265,Lê Hà Duyên,Cộng Tác Viên Vận Hành Lớp Học,Hồ Chí Minh,Chưa có
+266,Nguyen Phuong Anh,Accountant,"Hồ Chí Minh, Thái Bình, Hà Nội, Bắc Ninh, Bắc Giang",Chưa có
+267,Phạm Thị Huyền Thương,Nhân Viên Phòng Kế Toán,"Bình Dương, Hồ Chí Minh, Hà Tĩnh, Hà Nội, Đắk Lắk",Chưa có
+268,Tran Thi Yen Thy (Kai ),Customer Support,Hồ Chí Minh,Dưới 1 năm
+269,Phạm Phương Quỳnh,English Teacher,Hồ Chí Minh,2 năm
+270,Kha Khánh Duy,Sinh Viên Kiến Tập,Hồ Chí Minh,Chưa có
+271,Bùi Thị Liễu,Nhân Viên Kế Toán,"Bình Dương, Hồ Chí Minh, Gia Lai, Bình Phước, Đắk Lắk",4 năm
+272,Nguyễn Thị Lan Anh,Sinh Viên,Hồ Chí Minh,Dưới 1 năm
+273,Tăng Ngọc Diễm Ty,Partner Dạy Tiếng Việt,Hồ Chí Minh,5 năm trở lên
+274,Lê Thái Minh Long,Chuyên Viên Công Tác Học Sinh,Hồ Chí Minh,Dưới 1 năm
+275,Lê Thúy Hiền,Giáo Viên Sinh Học,Hồ Chí Minh,Dưới 1 năm
+276,Nguyễn Trần Thị Hồng Trâm,Gia Sư Dạy Mỹ Thuật,Hồ Chí Minh,Chưa có
+277,Nguyễn Thị Loan,Nhân Viên,Hồ Chí Minh,1 năm
+278,Vũ Nguyễn Gia Huy,Giáo Viên,Hồ Chí Minh,Dưới 1 năm
+279,Nguyen Pham Yen Vy,Teaching Assistant,Hồ Chí Minh,Dưới 1 năm
+280,Phan Thị Thuỳ Dương,Nhân Viên Sản Xuất,"Bà Rịa - Vũng Tàu, Vĩnh Phúc, Hồ Chí Minh, Hà Nội, Đà Nẵng",Chưa có
+281,Lương Nguyệt Anh,Giáo Viên Mầm Non,Hồ Chí Minh,1 năm
+282,Lê Thị Lan Anh,Nhân Viên Bán Hàng,Hồ Chí Minh,Chưa có
+283,Thái Thị Thanh Vân,Kế Toán Viên,Hồ Chí Minh,1 năm
+284,Trần Thị Mỹ Gương,Nhân Viên Tín Dụng,"Hồ Chí Minh, Bến Tre",3 năm
+285,Ngô Thụy Cảnh Nhân,Nhân Viên Bán Hàng,Hồ Chí Minh,Dưới 1 năm
+286,Châu Cẩm Triều,Trợ Giảng - Giáo Viên Toán,Hồ Chí Minh,4 năm
+287,Giang Thị Nguyệt Hà,Nhân Viên Hồ Sơ,"Hồ Chí Minh, Hà Nam, Hà Nội, Đà Nẵng, Bắc Ninh",2 năm
+288,Trần Thanh Thảo,Nhân Viên Chăm Sóc Khách Hàng,Hồ Chí Minh,5 năm trở lên
+289,Nguyễn Như Ngọc Quỳnh,Giáo Viên,Hồ Chí Minh,2 năm
+290,Nguyen Hoang Tuong Vy,Teaching Assistant,Hồ Chí Minh,Chưa có
+291,Bui Thi Hue,Saleswomen,"Bình Dương, Hồ Chí Minh, Hà Nội",1 năm
+292,Nguyễn Giáng Ngọc,Gia Sư Tiếng Anh,Hồ Chí Minh,Dưới 1 năm
+293,Võ Hải Nguyên,Bác Sĩ Tai Mũi Họng,"Bình Dương, Hồ Chí Minh, Bình Phước, Đắk Lắk, Đồng Nai",5 năm trở lên
+294,Hồ Thị Mỹ Dương,Nhân Viên Tư Vấn Tuyển Sinh,Hồ Chí Minh,Dưới 1 năm
+295,Nguyễn Thị Mỹ Lệ,Nhân Viên Văn Phòng - Sale Admin,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",5 năm trở lên
+296,Nguyễn Thị Thái Chân,Biên Phiên Dịch,Hồ Chí Minh,1 năm
+297,Trần Thị Tường Vi,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Kiên Giang, An Giang",Dưới 1 năm
+298,Dương Thị Bích Quyền,Nhân Viên Thẩm Định,Hồ Chí Minh,Chưa có
+299,Lê Hoàng Thoại My,Giáo Viên Mầm Non,Hồ Chí Minh,5 năm trở lên
+300,Khuất Nguyễn Thu Thảo,Giáo Viên Kỹ Năng Sống,Hồ Chí Minh,Dưới 1 năm
+301,Nguyễn Thị Thanh Tuyền,Giáo Viên Mầm Non,"Vĩnh Long, Hồ Chí Minh",Dưới 1 năm
+302,Le Dieu Linh,Part Time,Hồ Chí Minh,Chưa có
+303,Nguyễn Ngọc Quỳnh Như,"Người Quản Lý Page, Sáng Tạo Content, Tư Vấn Khoá Học",Hồ Chí Minh,1 năm
+304,Lê Thu Hương,Điều Dưỡng Chuyên Khoa Nhi,"Hồ Chí Minh, Hà Nội",5 năm trở lên
+305,Đỗ Thành Tâm,"Nhân Viên Bán Hàng, Tư Vấn","Hồ Chí Minh, Khánh Hòa, Đà Nẵng",2 năm
+306,Phạm Thị Ngọc Trâm,Gvmn,Hồ Chí Minh,2 năm
+307,Trần Thị Mai Quỳnh,Giáo Viên Mầm Non,Hồ Chí Minh,2 năm
+308,Lê Thị Ngọc Ánh,Giáo Viên,Hồ Chí Minh,Chưa có
+309,Nhung Nhung,Lang Thị Nhung,Hồ Chí Minh,3 năm
+310,Võ Huỳnh Hương,Nhân Viên Marketing,Hồ Chí Minh,Chưa có
+311,Đặng Thị Thanh Mai,Lập Trình Và Phát Triển Ứng Dụng,Hồ Chí Minh,Dưới 1 năm
+312,Phạm Thị Hiếu,Nhân Viên Văn Phòng,Hồ Chí Minh,5 năm trở lên
+313,Vũ Phạm Thanh Thúy,Teaching Assistant,Hồ Chí Minh,Dưới 1 năm
+314,Nguyễn Thị Kim Huệ,Giáo Viên Mầm Non,"Phú Yên, Hồ Chí Minh, Bình Định, Khánh Hòa, Đà Nẵng",Chưa có
+315,Lê Thị Hiền,Bảo Mẫu Mầm Non,Hồ Chí Minh,2 năm
+316,Dương Thị Trang,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đà Nẵng",1 năm
+317,Nguyễn Văn Trường Hoà,Nhân Viên Kinh Doanh Online,Hồ Chí Minh,3 năm
+318,Vuong Khanh Tuan,Somophore,Hồ Chí Minh,Dưới 1 năm
+319,Phan Thị Thảo Nguyên,"Nhân Viên, Giáo Viên",Hồ Chí Minh,3 năm
+320,Nguyen Ngoc Luong,Documentation Staff,"Hồ Chí Minh, Bình Định",Chưa có
+321,Nguyen Thanh Long,Consultant,Hồ Chí Minh,3 năm
+322,Tran Thi My Vuong,English Teacher,Hồ Chí Minh,1 năm
+323,Nguyễn Thị Hoài Nghi,Nhân Viên Văn Phòng,Hồ Chí Minh,2 năm
+324,Nguyễn Văn A,Nhân Viên,Hồ Chí Minh,2 năm
+325,Phùng Thị Ngọc Huyền,Part Time,"Hồ Chí Minh, Bến Tre",Dưới 1 năm
+326,Nguyen Minh Chau,"2Nd Year As Japanese Studies Of University
+Of Social Sciences And Humanities",Hồ Chí Minh,Chưa có
+327,Đặng Thị Diễm Thuý,Nhân Viên Tổng Đài,"Hồ Chí Minh, Quảng Nam, Đà Nẵng",2 năm
+328,Trần Quốc Thịnh,Nhân Viên,Hồ Chí Minh,2 năm
+329,Phạm Thị Thu Hương,Giảng Viên,Hồ Chí Minh,5 năm trở lên
+330,Nguyễn Thị Tuyền Loan,Hướng Dẫn Viên Du Lịch,Hồ Chí Minh,3 năm
+331,Đào Cẩm Linh,Hành Chính/văn Thư,Hồ Chí Minh,3 năm
+332,Ngô Ngọc Ái Nhi,Nhân Viên Tư Vấn Tuyển Sinh/ Chăm Sóc Khách Hàng,Hồ Chí Minh,4 năm
+333,Đào Thảo Uyên,Vị Trí : Bộ Môn Kinh Tế. Khoa Quản Trị Kinh Doanh. Trường Đại Học Văn Lang.,Hồ Chí Minh,4 năm
+334,Phi Thi Ngat,Nhân Viên,"Hồ Chí Minh, Hà Nội, Hải Phòng, Hải Dương, Bắc Ninh",3 năm
+335,Nguyễn Khắc Sinh,Nghiên Cứu Và Phát Triển Sản Phẩm,"Bình Dương, Hồ Chí Minh, Long An",5 năm trở lên
+336,Lê Trần Bảo Trâm,Nhân Viên Tư Vấn,Hồ Chí Minh,2 năm
+337,Đinh Thị Dương,Nhân Viên,"Hồ Chí Minh, Bình Thuận",2 năm
+338,Nguyen Tran Lam Hung,Online Teacher,Hồ Chí Minh,2 năm
+339,Diệp Võ Thanh Trúc,Nhân Viên Hành Chính,Hồ Chí Minh,4 năm
+340,Nguyễn Thị Hiểu Lan,Giáo Viên Kỹ Năng Sống,Hồ Chí Minh,1 năm
+341,Trần Thanh Hiếu,Giáo Viên Tin Học,"Hồ Chí Minh, Cần Thơ",3 năm
+342,Nguyễn Tiến Thành,Nhân Viên,Hồ Chí Minh,5 năm trở lên
+343,Ngô Yến Vy,Nhân Viên Bán Hàng,Hồ Chí Minh,5 năm trở lên
+344,Hghhhi,Hhjiiji,Hồ Chí Minh,1 năm
+345,Au Duong Nhu Ngoc,Student Club Activities Officer,"Bình Dương, Hồ Chí Minh, Hà Nội, Miền Bắc, Miền Nam",5 năm trở lên
+346,Mai Hoài Thương,Vị Trí Ứng Tuyển: Ctv Full Time,Hồ Chí Minh,Chưa có
+347,Nguyễn Hoàng Hà,English Teacher,Hồ Chí Minh,Dưới 1 năm
+348,Nguyen Quoc Huy,Crew Manager,Hồ Chí Minh,5 năm trở lên
+349,Trần Minh Đức,Thư Ký Văn Phòng,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+350,Đồng Thị Quỳnh Hương,French Content Ai Writer,Hồ Chí Minh,1 năm
+351,Huynh Khanh Nhu,English Teacher/ Co-Teacher/ Teaching Assistant,Hồ Chí Minh,4 năm
+352,Phạm Thị Ngọc Băng,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Cần Thơ",Chưa có
+353,Nguyễn Võ Hiếu,Thực Tập Sinh Nhân Sự,Hồ Chí Minh,Chưa có
+354,Phạm Thành Công,Quản Lý/trưởng Phòng,"Hồ Chí Minh, Hà Nội",3 năm
+355,Phạm Nguyễn Mỹ Hân,Hành Chính Nhân Sự,Hồ Chí Minh,Dưới 1 năm
+356,Phan Công Nghiệp,Ctv Tiếng Trung,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Thái Nguyên, Hà Nội, Cao Bằng",1 năm
+357,Nguyen Hoang Xuan Ai,Intern,Hồ Chí Minh,Chưa có
+358,Võ Thị Hồng Thảo,Giáo Viên Tiểu Học,Hồ Chí Minh,4 năm
+359,Nguyễn Thị Huynh,Kỹ Thuật Viên Sản Xuất,Hồ Chí Minh,3 năm
+360,Nguyễn Hoàng Long,Giảng Viên Tiếng Hàn,Hồ Chí Minh,5 năm trở lên
+361,Nguyễn Thị Ngọc Dung,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+362,Trần Vũ Anh Thi,Thực Tập Sinh Trợ Lý Giám Đốc,Hồ Chí Minh,1 năm
+363,Trương Phan Gia Bảo,English Teaching Assistant,Hồ Chí Minh,Dưới 1 năm
+364,Lê Duy Quang,Nhân Viên Nhân Sự/ Truyền Thông Tuyển Dụng,Hồ Chí Minh,1 năm
+365,Bùi Quân Đặng Thuỷ Tiên,Giáo Viên,"Hồ Chí Minh, Lâm Đồng",5 năm trở lên
+366,Ngô Nguyên Toàn,Nhân Viên Văn Phòng,Hồ Chí Minh,Chưa có
+367,Nguyễn Minh Chương,Nhân Viên,Hồ Chí Minh,Chưa có
+368,Phan Thị Việt Trinh,Hành Chính Nhân Sự Tổng Hợp - Admin Hành Chính - Lễ Tân Hành Chính,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Bình Định, Hà Nội, Miền Nam",2 năm
+369,Phạm Thị Linh Nhi,Giáo Viên Mầm Non,Hồ Chí Minh,4 năm
+370,Cao Hoàng Phương Trinh,Vị Trị Trực Page,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Khánh Hòa, Hà Nội, Quảng Bình",Chưa có
+371,Trần Thị Cẩm Ly,Giáo Viên Giáo Dục Đặc Biệt,Hồ Chí Minh,Chưa có
+372,Trần Chí Phương,Giáo Viên Giảng Dạy Kỹ Năng,Hồ Chí Minh,1 năm
+373,Pham Tram Anh,Data Processor,"Hồ Chí Minh, Khánh Hòa",3 năm
+374,Trần Thanh Thiên,Ctv Tuyển Dụng,Hồ Chí Minh,Chưa có
+375,Nguyen Thi My Tram,Intern,Hồ Chí Minh,Dưới 1 năm
+376,Lê Nguyễn Bảo Yến (Jolie),Nhân Viên Đào Tạo Thời Trang,Hồ Chí Minh,5 năm trở lên
+377,Lê Thị Hồng Phượng,Nhân Viên Sale/telesale Tư Vấn Khoá Học Tiếng Trung,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+378,Ngo Thi Thuy Loan,English Teacher,Hồ Chí Minh,Chưa có
+379,Ngô Ngọc Thủy,Nhân Viên Kinh Doanh,"Hồ Chí Minh, Tây Ninh",5 năm trở lên
+380,Lê Thị Nhật,Trợ Giảng,Hồ Chí Minh,Chưa có
+381,Nguyễn Thị Bích Duyên,"Lễ Tân, Tiếp Tân","Trà Vinh, Hồ Chí Minh, Long An, Tiền Giang, Bến Tre",Chưa có
+382,Nguyễn Nhật Duy,Trợ Lý Giám Đốc Sản Xuất,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Cần Thơ, Đồng Nai",Chưa có
+383,Tô Thảo Phúc Tâm,Nhân Viên Chăm Sóc Nhà Bán Hàng Shopee,Hồ Chí Minh,3 năm
+384,Nguyen Minh Phuong,Part-Time English Teacher,"Vĩnh Phúc, Hồ Chí Minh, Hà Nội, Đà Nẵng",3 năm
+385,Trần Thị Kim Yến,Giáo Viên Chủ Nhiệm,Hồ Chí Minh,5 năm trở lên
+386,Võ Ngọc Thiện,Giáo Viên Thể Chất,Hồ Chí Minh,2 năm
+387,Nguyễn Huỳnh Thị Cẩm Nhung,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Định, Đồng Nai",Chưa có
+388,Huỳnh Thị Yến Lan,Nhân Viên Nhân Sự,"Hồ Chí Minh, Quảng Nam, Hà Nội, Đà Nẵng",5 năm trở lên
+389,Phan Thị Hương Giang,Thực Tập Sinh Marketing Công Ty Cổ Phần Thế Giới Di Động,Hồ Chí Minh,1 năm
+390,Nguyễn Thị Yến Nhi,Ctv Marketing,Hồ Chí Minh,2 năm
+391,Nguyễn Thu Uyên,Nhân Viên Nội Dung,"Hồ Chí Minh, Bình Định, Gia Lai",Chưa có
+392,Phạm Thanh               Thiên Lý,Part Time,"Hồ Chí Minh, Long An",Chưa có
+393,Chu Cao Trọng,Giám Đốc Kinh Doanh,"Phú Thọ, Hồ Chí Minh",2 năm
+394,Đặng Ngọc Hương,Quản Lý  Kho,Hồ Chí Minh,4 năm
+395,Lê Thị Bé Hiền,Thực Tập Sinh Marketing,Hồ Chí Minh,1 năm
+396,Lại Phụng Thư,Huấn Luyện Viên Erobics,Hồ Chí Minh,5 năm trở lên
+397,Nguyễn Thị Quỳnh Như,Giáo Viên Âm Nhạc,"Hồ Chí Minh, Đồng Nai",5 năm trở lên
+398,Châu Ngọc Trân,Nhân Viên Văn Phòng,Hồ Chí Minh,4 năm
+399,Triệu Quang Huy,Chuyên Viên Kinh Doanh,Hồ Chí Minh,Dưới 1 năm
+400,Nguyen Hoang Nhut Anh,Translator Position,Hồ Chí Minh,Dưới 1 năm
+401,Nguyễn Mạnh Báu,Lao Động Phổ Thông,Hồ Chí Minh,Dưới 1 năm
+402,Hoàng Thị Minh Liễu,Giao Dịch Viên Tại Bưu Cục Phú Thiện,"Hồ Chí Minh, Long An, Gia Lai, Kon Tum, Đắk Lắk",1 năm
+403,Vo Thi Kim Thoa,English Teacher,Hồ Chí Minh,2 năm
+404,Phạm Thị Thu Hằng,Tester,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, An Giang, Hà Nội, Bắc Giang",4 năm
+405,Dương Thị Thanh Thủy,Nhân Viên Vận Hành Đào Tạo,Hồ Chí Minh,2 năm
+406,Trương Quốc Việt,Giáo Viên Tiếng Anh,Hồ Chí Minh,Chưa có
+407,Trần Ngọc Hoàng,Btv Toán Thcs,"Hồ Chí Minh, Hà Nội",Chưa có
+408,Hà Thanh Nhã,Giáo Viên Hướng Dẫn Toán Trí Tuệ Superbrain,Hồ Chí Minh,3 năm
+409,Ngô Ngọc Thanh,Customer Care,Hồ Chí Minh,Chưa có
+410,Nguyen Vo Minh Phuong,Teacher,Hồ Chí Minh,2 năm
+411,Nguyễn Hữu Kim Chi,Trợ Lý Văn Phòng,Hồ Chí Minh,Chưa có
+412,Lâm Khánh Duyên,"Nhân Viên Hành Chính, Nhân Sự",Hồ Chí Minh,3 năm
+413,Nguyễn Thị Thiên Giang,Hành Chính/thư Ký/ Văn Phòng,"Hồ Chí Minh, Hà Nội",5 năm trở lên
+414,Chang Khánh Huệ,Translator,Hồ Chí Minh,Chưa có
+415,Phạm Lê Quỳnh Nhi,Nhân Viên Kinh Doanh Part Time,Hồ Chí Minh,Dưới 1 năm
+416,Mai Hải Yến,Giáo Viên Địa Lí,Hồ Chí Minh,Chưa có
+417,Ghicioc Andrei Codrin,Esl Teacher,Hồ Chí Minh,4 năm
+418,Bùi Văn Khoa,Nhân Viên Bán Hàng,Hồ Chí Minh,3 năm
+419,Nguyễn Thị Thu Hương,Giáo Viên Kỹ Năng Sống,Hồ Chí Minh,3 năm
+420,Phạm Hoàng Minh Thư,Giáo Viên Stem - Tphcm,Hồ Chí Minh,Chưa có
+421,Duong,Front-End Developer,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+422,Tran Van Trinh,Automation Tester,Hồ Chí Minh,Chưa có
+423,Lê Thị Cúc,Nhân Viên,"Hồ Chí Minh, Hà Nội, Đà Nẵng, Bắc Ninh, Bắc Giang",Dưới 1 năm
+424,Đào Minh Đức,Marketing,Hồ Chí Minh,5 năm trở lên
+425,Nguyễn Tấn Nhị,Manual Testing,"Hồ Chí Minh, Bình Định, Quảng Ngãi, Quảng Nam, Đà Nẵng",Chưa có
+426,Bùi Vũ Thành,Nhân Viên Kho Hàng,Hồ Chí Minh,2 năm
+427,Nguyễn Đăng Quang,Nhân Viên Văn Phòng,Hồ Chí Minh,Chưa có
+428,Hồ Phạm Khánh Linh,Tổng Vụ Nhân Sự,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+429,Nguyễn Phát Đạt,Chuyên Viên Công Nghệ Thông Tin,Hồ Chí Minh,5 năm trở lên
+430,Hứa Đăng Khôi,Nhân Viên Kiểm Thử Phần Mềm (Tester),Hồ Chí Minh,Chưa có
+431,Đặng Hiển Chí,Internship/fresher Php Developer,Hồ Chí Minh,Chưa có
+432,Nguyễn Đăng Khoa,Web Developer,Hồ Chí Minh,Dưới 1 năm
+433,Trần Quang Thoại,Lập Trình Viên,"Hồ Chí Minh, Hà Nội, Đà Nẵng",3 năm
+434,Ngo Quoc Thang,Network Administrator,Hồ Chí Minh,Chưa có
+435,Bao Quang Nguyen,Floor Supervisor,"Vĩnh Phúc, Hồ Chí Minh, Hưng Yên, Hà Nội, Đà Nẵng",4 năm
+436,Trần Thị Hải,Nhân Viên Văn Phòng,"Nghệ An, Bình Dương, Hồ Chí Minh, Hà Nội, Đà Nẵng",2 năm
+437,Đặng Thanh Sang,Lập Trình Viên,Hồ Chí Minh,Chưa có
+438,Lê Thị Nhuận,Fresher Lập Trình Website Frontend,"Nghệ An, Hồ Chí Minh, Bình Định, Thừa Thiên Huế, Đà Nẵng",Chưa có
+439,Chuc Thi Trang,Recceptionist,"Hồ Chí Minh, Hà Nội, Đà Nẵng",2 năm
+440,Nguyễn Thế Anh Phước,Nhân Viên Kỹ Thuật,Hồ Chí Minh,Dưới 1 năm
+441,Tô Nguyên Anh Công,Chuyên Viên Marketing Online,Hồ Chí Minh,5 năm trở lên
+442,Trần Minh Quang,Art 3D,Hồ Chí Minh,2 năm
+443,Trần Đăng Thắng,Tổ Trưởng Marketing,"Hồ Chí Minh, Đồng Nai",3 năm
+444,Nguyễn Tiên Ngân Thư,It Support,Hồ Chí Minh,3 năm
+445,Võ Văn Hồ,Nhân Viên Vận Hành,Hồ Chí Minh,1 năm
+446,Dụng Long Thiên,Thực Tập Sinh 2D,Hồ Chí Minh,Chưa có
+447,Ngô Thành Tiến,Trưởng Nhóm,Hồ Chí Minh,5 năm trở lên
+448,Nguyễn Văn Cường,Nhân Viên,Hồ Chí Minh,Chưa có
+449,Nguyễn Duy Kha,Nhân Viên Marketing,Hồ Chí Minh,3 năm
+450,Dương Thị Hợp,Nhân Viên Thu Hồi Nợ,Hồ Chí Minh,Chưa có
+451,Đỗ Hữu Bằng,Nhân Viên,"Hồ Chí Minh, Sóc Trăng, Cần Thơ",Chưa có
+452,Trần Thành Danh,"Tốt Nghiệp Đại Học Ngành Kỹ Thuật Mạng.với Kinh Nghiệm Làm Việc Ở Nhiều Lĩnh Vực, Đam Mê, Sáng Tạo.",Hồ Chí Minh,1 năm
+453,Đổ Thị Phương Diễm,Nhập Liệu,Hồ Chí Minh,5 năm trở lên
+454,Nguyễn Thị Cẩm Mỹ,Nhân Viên Kế Toán - Tester,"Bình Dương, Hồ Chí Minh, Bình Định, Quảng Nam, Đà Nẵng",3 năm
+455,Phạm Minh Tiến,Part Time,"Hồ Chí Minh, Hà Nội, Đà Nẵng",Chưa có
+456,Lê Đình Luân,Sinh Viên Năm 3,Hồ Chí Minh,Chưa có
+457,Bùi Thị Ngọc Thuý,Nhân Viên Buồng Phòng,"Hồ Chí Minh, Thừa Thiên Huế, Quảng Nam, Hà Nội, Đà Nẵng",1 năm
+458,Khấu Thị Trâm Anh,Nhân Viên Văn Phòng,Hồ Chí Minh,Chưa có
+459,Nguyễn Quốc Bảo,Customer Experience Specialist- Finance Escalation (Prefer Payments Experience),Hồ Chí Minh,5 năm trở lên
+460,Nguyễn Thanh Bình,Btv,"Hồ Chí Minh, Thái Bình, Hà Tây, Hà Nội, Đồng Nai",3 năm
+461,Dụng Long Thiên,Thực Tập Sinh Designer,Hồ Chí Minh,Chưa có
+462,Nguyễn Hoàng Nam,Nhân Viên Kinh Doanh,"Trà Vinh, Hồ Chí Minh, Sóc Trăng, Bến Tre",5 năm trở lên
+463,Huỳnh Tấn Phát,Nhân  Viên Hoặc Trưởng Phòng It,Hồ Chí Minh,5 năm trở lên
+464,Nguyễn Thị Kim Tuyền,...,Hồ Chí Minh,Chưa có
+465,Mai Văn Thăng,Nhân Viên Kĩ Thuật Bảo Trì,Hồ Chí Minh,2 năm
+466,Bùi Thị Trúc Quyên,Nhân Viên Kinh Doanh/nhân Viên Văn Phòng,Hồ Chí Minh,Chưa có
+467,Trương Quốc Anh Đăng,It Kỹ Thuật,Hồ Chí Minh,5 năm trở lên
+468,Trần Hải Biên,Kỹ Thuật Phần Mềm,"Hồ Chí Minh, Quảng Ngãi",1 năm
+469,Lu Chi Khang,Android Developer,Hồ Chí Minh,2 năm
+470,Nguyễn Quốc Toàn,Mobile Application Developer - Flutter,Hồ Chí Minh,1 năm
+471,Nguyễn Văn Trung,Nhân Viên Bán Hàng Part Time,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Hà Nội, Đà Nẵng, Bắc Ninh",Chưa có
+472,Nguyễn Thanh Minh,Kỹ Thuật,"Hồ Chí Minh, Kiên Giang, An Giang, Cần Thơ, Bạc Liêu",3 năm
+473,Diệp Bảo Toàn,Cskh Livechat,Hồ Chí Minh,Chưa có
+474,Nguyễn Xuân Vinh,Nhân Viên Sales,Hồ Chí Minh,3 năm
+475,Đinh Kiến Quốc,Bán Hàng,Hồ Chí Minh,Chưa có
+476,Đoàn Hoàng Linh,Nhân Viên,Hồ Chí Minh,Dưới 1 năm
+477,Phan Hồng Hải Vinh,Photographer,"Hồ Chí Minh, Hà Nội",2 năm
+478,Lê Minh Quốc,Nhân Viên Kinh Doanh,Hồ Chí Minh,1 năm
+479,Tran Van Khai,Intern Developer,Hồ Chí Minh,Dưới 1 năm
+480,Nguyễn Đăng Trình,Ui/ux Designer,Hồ Chí Minh,Dưới 1 năm
+481,Nguyễn Hoàng Đăng Khoa,Fontend,Hồ Chí Minh,Chưa có
+482,Võ Trần Đức Huy,Nhân Viên Văn Phònglái Xe Văn Phòng,Hồ Chí Minh,3 năm
+483,Nguyen Minh Hieu,Designer,Hồ Chí Minh,Chưa có
+484,Ngô Thùy Thương,Information Technology Engineer,Hồ Chí Minh,Dưới 1 năm
+485,Dam Gia Huy,It Staff,Hồ Chí Minh,Dưới 1 năm
+486,Vũ Chính Trực,Thực Tập Sinh Thiết Kế Website,Hồ Chí Minh,Chưa có
+487,Bùi Thị Nguyệt,Nhân Viên Kế Hoạch,"Hồ Chí Minh, Bình Phước",5 năm trở lên
+488,Nguyễn Trường An,Nhân Viên Bán Hàng,Hồ Chí Minh,1 năm
+489,Lê Văn Cường,Khác,Hồ Chí Minh,3 năm
+490,Trần Thị Kim Oanh,Nhân Viên Văn Phòng,Hồ Chí Minh,1 năm
+491,Huỳnh Kim Đức,Kỹ Thuật,Hồ Chí Minh,Chưa có
+492,Trần Thanh Hùng,Nhân Viên Văn Phòng Tiếng Trung,Hồ Chí Minh,4 năm
+493,Lê Minh Tâm,Nhân Viên Nhập Liệu,Hồ Chí Minh,Dưới 1 năm
+494,Le Nguyen Quoc Trung,Intern,Hồ Chí Minh,Chưa có
+495,Trần Văn Vinh,Nhân Viên Kinh Doanh,"Hồ Chí Minh, Bình Định, Quảng Ngãi, Hà Nội, Đà Nẵng",Dưới 1 năm
+496,Nguyễn Thị Quỳnh Chi,Nhân Viên Tuyển Dụng Vàtruyền Thông,"Hồ Chí Minh, Hà Nội",Chưa có
+497,Nguyễn Phúc Đạt,Interns It,Hồ Chí Minh,Chưa có
+498,Lê Anh Dũng,Học Việc,Hồ Chí Minh,Chưa có
+499,Nguyễn Thức,Nhân Viên Fulltime,Hồ Chí Minh,Dưới 1 năm
+500,Võ Trọng Hiển,Internship-Frontend,Hồ Chí Minh,Chưa có
+501,Nguyễn Trung Vĩnh,Internship Ux/ui Designer,Hồ Chí Minh,Chưa có
+502,Nguyễn Minh Đức,Lập Trình Viên,Hồ Chí Minh,Chưa có
+503,Trần Anh Thuận,Thực Tập Sinh,Hồ Chí Minh,Dưới 1 năm
+504,Dương Thanh Trường,"Sinh Viên Thực Tập Mobile, Front End Web",Hồ Chí Minh,2 năm
+505,Trần Đại Vĩ,Cố Vấn Dịch Vụ,Hồ Chí Minh,Chưa có
+506,Huỳnh Tấn Phúc,Thực Tập Sinh Front End,Hồ Chí Minh,Chưa có
+507,Đoàn Duy Thức,Phụ Bếp King Bbq,Hồ Chí Minh,Chưa có
+508,Bùi Phương Nam,Nhân Viên Thiết Kế Website,"Hồ Chí Minh, Hà Nội",Dưới 1 năm
+509,Trần Văn Đức,"System Admin, It Helpdesk, It Support.","Hồ Chí Minh, Hà Nội",Dưới 1 năm
+510,Phạm Đăng Khoa,Kỹ Thuật Phần Mềm,Hồ Chí Minh,2 năm
+511,Trần Văn Linh,Nhân Viên It,Hồ Chí Minh,5 năm trở lên
+512,Nguyễn Hữu Phước,It-It Helpdesk-It Support,Hồ Chí Minh,5 năm trở lên
+513,Nguyễn Văn Hào,Nhân Viên - Chuyên Viên,Hồ Chí Minh,Chưa có
+514,Võ Văn Thanh Quang,Junior Java Developer,Hồ Chí Minh,Dưới 1 năm
+515,Huỳnh Hải Bằng,Intern,Hồ Chí Minh,Chưa có
+516,Nguyễn Lê Hiên,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+517,Nguyễn Xuân Nhật,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+518,Trương Thục Quỳnh,Nhân Viên Theo Dõi Đơn Hàng,Hồ Chí Minh,Chưa có
+519,Nguyễn Văn Tuấn,Nhân Viên,Hồ Chí Minh,1 năm
+520,Nguyen Viet Thanh Phong,Accountant,Hồ Chí Minh,1 năm
+521,Nguyễn Hữu Điền,Ứng Tuyển Nhân Viên Kỹ Thuật Và Lập Trình,"Vĩnh Long, Bình Dương, Hồ Chí Minh, Hà Nội, Cần Thơ",Chưa có
+522,Hồ Công Sơn,Nhân Viên Kỹ Thuật Fb Ads,"Hồ Chí Minh, Thừa Thiên Huế, Hà Nội, Đà Nẵng, Đồng Nai",2 năm
+523,Nguyễn Tăng Tấn Tài,Nhân Viên,Hồ Chí Minh,1 năm
+524,Phạm Thị Thuỳ Dương,Tín Dụng Doanh Nghiệp,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",2 năm
+525,Bùi Thanh Tâm,Nhân Viên It,Hồ Chí Minh,Chưa có
+526,Phạm Thanh Ánh Tuyết,Lập Trình Viên,"Hồ Chí Minh, Đồng Nai",Chưa có
+527,Lê Văn Hiếu,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+528,Đặng Văn Công,Nhân Viên Cskh,Hồ Chí Minh,2 năm
+529,Bành Lưu Danh Phước,Nhân Viên Công Nghệ Thông Tin,Hồ Chí Minh,Chưa có
+530,Huỳnh Thái Trung Trực,Nhân Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+531,Nguyễn Trọng Duy,Chuyên Viên Kỹ Thuật It,Hồ Chí Minh,Dưới 1 năm
+532,Nguyễn Duy Minh,Nhân Viên,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, Kiên Giang, An Giang, Cần Thơ",Chưa có
+533,Phan Ngọc Trọng,Nhân Viên Bán Hàng,Hồ Chí Minh,Chưa có
+534,Bùi Đức Hòa,It Hardware,Hồ Chí Minh,Dưới 1 năm
+535,Lê Trung Kiên,Lập Trình Viên,Hồ Chí Minh,Chưa có
+536,Đoàn Thị Mỹ An,Front End Developer,Hồ Chí Minh,Chưa có
+537,Châu Khải Hoàn,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+538,Trương Văn Phúc,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+539,Lê Thanh Tùng,Nhân Viên,"Bà Rịa - Vũng Tàu, Hồ Chí Minh, An Giang, Bạc Liêu, Bắc Kạn",Chưa có
+540,Đào Quang Vinh,Nhân Viên It,Hồ Chí Minh,Chưa có
+541,Khổng Văn Uyển,"Nhân Viên Marketing, Chuyên Viên Phần Mềm","Hồ Chí Minh, Hà Nội",5 năm trở lên
+542,Nguyễn Văn Hoà,Giám Sát,"Bình Dương, Hồ Chí Minh, Gia Lai, Kon Tum, Đắk Lắk",3 năm
+543,La Thái Tuấn Phong,Nhân Viên Kỹ Thuật,Hồ Chí Minh,2 năm
+544,Đào Tuấn Khanh,"It Support, It Helpdesk, Network Engineer",Hồ Chí Minh,5 năm trở lên
+545,Thai Hong Phat,It Help-Desk,Hồ Chí Minh,1 năm
+546,Trần Văn Công,Nhân Viên Văn Phòng,Hồ Chí Minh,Dưới 1 năm
+547,Nguyễn Hà Nguyên,Nhân Viên Kỹ Thuật,Hồ Chí Minh,Dưới 1 năm
+548,Trần Thiên Quốc Nguyên,Translator/freelancer/beginner Programmer,Hồ Chí Minh,Dưới 1 năm
+549,Huỳnh Minh Trí,Backend Intern,Hồ Chí Minh,Chưa có
+550,Tống Văn Chiến,Nhân Viên Văn Phòng,"Hồ Chí Minh, Bình Phước",5 năm trở lên
+551,Lê Thị Tú Xương,Hr Admin,Hồ Chí Minh,Chưa có
+552,Trần Duy Tân,Nhân Viên Hành Chính,Hồ Chí Minh,Chưa có
+553,Lê Ngọc Hải,It,"Hồ Chí Minh, Đắk Lắk",1 năm
+554,Nguyen Thi Thu Ngan,Customer Service,Hồ Chí Minh,1 năm
+555,Le Nguyen Quoc Trung,It Programmer,Hồ Chí Minh,Chưa có
+556,Nguyễn Thế Quang,Intern - Business Analyst,Hồ Chí Minh,Chưa có
+557,Nguyễn Trung Anh,Web Development,Hồ Chí Minh,Dưới 1 năm
+558,Hoàng Thế Lân,Kinh Doanh - Dịch Vụ,"Hồ Chí Minh, Quảng Bình",5 năm trở lên
+559,Van Cong Tan Phat,Fresher Php,Hồ Chí Minh,Chưa có
+560,Lâm Vạn Đạt,Cộng Tác Viên Môi Giới,"Hồ Chí Minh, Kiên Giang",2 năm
+561,Phạm Phước Duyên,Thực Tập Sinh Lập Trình Mobile,Hồ Chí Minh,Chưa có
+562,Trịnh Đức Anh,Nhân Viên Kỹ Thuật,Hồ Chí Minh,5 năm trở lên
+563,Nguyễn Mạnh Tuấn,Thực Tập Sinh,Hồ Chí Minh,Chưa có
+564,Lê Quốc Hưng,Fresher Php,"Hồ Chí Minh, Hà Nội, Đà Nẵng",Dưới 1 năm
+565,Nguyễn Anh Tuấn,Bartender,"Hồ Chí Minh, Đồng Nai",3 năm
+566,Vũ Văn Thái,Nhân Viên Thiết Kế,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Nam Định, Hà Nội",Chưa có
+567,Cao Nguyễn Minh Sang,Backend Web Developer,Hồ Chí Minh,Dưới 1 năm
+568,Lê Thị Quỳnh Như,Chuyên Viên Phân Tích Và Phát Triển Hệ Thống,Hồ Chí Minh,Chưa có
+569,Cao Nguyễn Minh Sang,Backend Web Developer,Hồ Chí Minh,Dưới 1 năm
+570,Nguyễn Trần Trí Tuệ,It Technical,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+571,Duong,Front-End Developer,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+572,Phạm Thị Tú Anh,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+573,Hồ Phạm Khánh Linh,Tổng Vụ Nhân Sự,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+574,Trần Thị Hải,Nhân Viên Văn Phòng,"Nghệ An, Bình Dương, Hồ Chí Minh, Hà Nội, Đà Nẵng",2 năm
+575,Nguyễn Công Tiến,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+576,Nguyễn Thị Cẩm Mỹ,Nhân Viên Kế Toán - Tester,"Bình Dương, Hồ Chí Minh, Bình Định, Quảng Nam, Đà Nẵng",3 năm
+577,Ngo Nhu Ngoc,Tài Xế,"Trà Vinh, Bình Dương, Tây Ninh, Khánh Hòa, Đắk Lắk",3 năm
+578,Phan Thanh Hải,Web Development,Bình Dương,Dưới 1 năm
+579,Bùi Thanh Nga,Quản Trị Mạng Máy Tính,Bình Dương,Chưa có
+580,Nguyễn Hữu Điền,Ứng Tuyển Nhân Viên Kỹ Thuật Và Lập Trình,"Vĩnh Long, Bình Dương, Hồ Chí Minh, Hà Nội, Cần Thơ",Chưa có
+581,Phạm Văn Dũng,Software Engineer,"Bình Dương, Đồng Nai",5 năm trở lên
+582,Phạm Thị Thuỳ Dương,Tín Dụng Doanh Nghiệp,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",2 năm
+583,Huỳnh Thái Trung Trực,Nhân Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+584,Nguyễn Văn Hoà,Giám Sát,"Bình Dương, Hồ Chí Minh, Gia Lai, Kon Tum, Đắk Lắk",3 năm
+585,Vũ Văn Thái,Nhân Viên Thiết Kế,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Nam Định, Hà Nội",Chưa có
+586,Nguyễn Trần Trí Tuệ,It Technical,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+587,Trương Hưng Phuoc,Kỹ Sư Ô Tô,Bình Dương,Chưa có
+588,Nguyễn Đức Hòa,Nhân Viên It,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+589,Võ Chánh Nghĩa,Nhân Viên Quản Lý,"Bình Dương, Đồng Nai",Chưa có
+590,Lê Minh Tân,Nhân Viên Kỹ Thuật,"Bình Dương, Hồ Chí Minh, Long An, An Giang, Cần Thơ",Chưa có
+591,Duong Thi Xuan Thoai,Software Deployment,"Bình Dương, Hồ Chí Minh, Tiền Giang, Đồng Nai, Bến Tre",5 năm trở lên
+592,Nguyễn Trọng Tuyển,Nhân Viên Kho,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Chưa có
+593,Trịnh Trọng Thịnh,Designer,Bình Dương,Chưa có
+594,Phan Văn Trúng,Nhân Viên,Bình Dương,1 năm
+595,Vũ Thị Như Quỳnh,Sale,"Bình Dương, Hồ Chí Minh, Hà Nội, Hải Dương, Miền Bắc",Dưới 1 năm
+596,Nguyễn Hoàng Nhơn,Nhân Viên,Bình Dương,3 năm
+597,Nguyễn Văn Sinh,Nhân Viên Vận Hành,"Bình Dương, Hồ Chí Minh, Bình Định, Ninh Thuận, Bình Phước",5 năm trở lên
+598,Lê Quang Vinh,Lập Trình Ứng Dụng(Game),"Bình Dương, Hồ Chí Minh, An Giang, Đà Nẵng",Dưới 1 năm
+599,Tran Thanh Hiep,Nhân Viên Quản Lý,Bình Dương,5 năm trở lên
+600,Phạm Phú Huy Hưng,Công Nhân,"Bình Dương, Đồng Nai",Dưới 1 năm
+601,Nguyễn Ngọc Lâm,Nhân Viên Văn Pho·,Bình Dương,1 năm
+602,Thái Bảo Khánh,Nhân Viên Kinh Doanh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đà Nẵng",1 năm
+603,Đặng Thị Ngọc Anh,Office Staff,Bình Dương,5 năm trở lên
+604,Hoàng Công Dũng,Visip2A,Bình Dương,2 năm
+605,Đoàn Lê Quang Trưởng,Ứng Tuyển Vị Trí It,"Bình Dương, Hồ Chí Minh",5 năm trở lên
+606,Phan Văn Trúng,Nhân Viên,Bình Dương,1 năm
+607,Huỳnh Trung Hậu,Nhân Viên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",2 năm
+608,Lê Đức Anh,Vị Trí Ứng Tuyển: Nhân Viên Chứng Từ Xnk,Bình Dương,5 năm trở lên
+609,Võ Đình Rin,Nhân Viên It,Bình Dương,5 năm trở lên
+610,Trương Minh Hiếu,Nhân Viên Marketing,"Bình Dương, Hồ Chí Minh, Thái Nguyên, Thái Bình, Hà Nội",1 năm
+611,Cao Gia Bao,Ba,"Bình Dương, Hồ Chí Minh",Chưa có
+612,Trần Nguyễn Kim Ngân,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh",1 năm
+613,Đặng Văn Tú,Tài Xế Đưa Đón Bgd,"Bình Dương, Hồ Chí Minh",3 năm
+614,Chu Đỗ Hải,It/mạng,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+615,Lê Đức Danh,Cộng Tác Viên Kinh Doanh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Kiên Giang, Cần Thơ",Chưa có
+616,Nguyễn Văn Hiếu,Nhân Viên It,Bình Dương,5 năm trở lên
+617,Lê Pha,Nhân Viên Kinh Doanh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Gia Lai",3 năm
+618,Võ Thị Tuyết Hạnh,"Vị Trí Ứng Tuyển: Nhân Viên Văn Phòng, Thu Mua, Kho, Xuất Nhập Khẩu, Thống Kê, Theo Dõi Đơn","Bình Dương, Đồng Tháp, Kiên Giang, Bình Định, An Giang",1 năm
+619,Nông Đức Lai,Jit,Bình Dương,Chưa có
+620,Nguyễn Hoàng Trung,"Lập
+Trình Cho Ứng Dụng Sử Dụng Ngôn Ngữ Asp.net Core, Flutter, Nodejs","Bình Dương, Hồ Chí Minh",5 năm trở lên
+621,Hoàng Thị Thảo Nhi (Vicky),Merchandiser,"Bình Dương, Hồ Chí Minh, Hà Nội, Đồng Nai, Bến Tre",1 năm
+622,Nguyen Trong Chien,Data Management,Bình Dương,Chưa có
+623,Trần Đức Phi,Thực Tập Sinh,Bình Dương,1 năm
+624,Nguyễn Trí Thìn,Nhân Viên,"Bình Dương, Hồ Chí Minh",1 năm
+625,Nguyễn Ngọc Tú,Content Leader,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đắk Lắk, Đồng Nai",5 năm trở lên
+626,Huỳnh Tấn Thành,It System/network/helpdesk,"Bình Dương, Hồ Chí Minh",4 năm
+627,Đào Trần Nguyên Hạnh,Vị Trí Front - End,"Bình Dương, Hồ Chí Minh, Bình Định, Quảng Nam, Đà Nẵng",Chưa có
+628,Nguyễn Sanh Phát,Cameraman & Editor,"Bình Dương, Hồ Chí Minh, Hà Nội, Lâm Đồng, Đồng Nai",5 năm trở lên
+629,Trần Nguyễn Phương Duyên,Nhân Viên Kho,"Bình Dương, Hồ Chí Minh",2 năm
+630,Trần Văn Tân,"It, Digital Marketing",Bình Dương,1 năm
+631,Nguyễn Thị Kim Bảo,Giáo Viên,Bình Dương,3 năm
+632,Bùi Thị Hương Thuỹ,Nhân Viên Thiết Kế,"Bình Dương, An Giang",Dưới 1 năm
+633,Dương,Mai Quang Dương,"Bình Dương, Hồ Chí Minh, Đắk Nông, Đắk Lắk, Đồng Nai",Chưa có
+634,Đoàn Minh Mẫn,Ứng Tuyển Nhân Viên Điều Phối,Bình Dương,Dưới 1 năm
+635,Cao Thị Kiều Oanh,Online Teacher,Bình Dương,1 năm
+636,Huỳnh Ngọc Thanh Thư,Nhân Viên Môi Trường,"Bình Dương, Đồng Nai",Chưa có
+637,Nguyễn Ngọc Phương Linh,Kế Toán Tổng Hợp,Bình Dương,Chưa có
+638,Nguyen Kim Luyen,English-Vietnamese Translator,"Bình Dương, Hồ Chí Minh, Hà Nội",Dưới 1 năm
+639,Nguyễn Thị Kiều Diễm,Nhân Viên Văn Phòng,"Bình Dương, Hồ Chí Minh, Đồng Nai",Dưới 1 năm
+640,Tran Manh Cuong,English Teacher,"Bình Dương, Hồ Chí Minh, Gia Lai, Hà Nội, Hải Phòng",2 năm
+641,Lê Thị Bích Nga,Giáo Viêng Tiếng Anh,Bình Dương,2 năm
+642,Hòa Thị Tuyết,Nhân Viên,Bình Dương,3 năm
+643,Lê Thị Nam,Cộng Tác Viên,"Bình Dương, Gia Lai",3 năm
+644,Đinh Thị Ngọc,Giáo Viên Môn Toán - Hóa (Thcs),"Bình Dương, Quảng Bình",Chưa có
+645,Trần Thị Thanh Ngân,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh, An Giang",Chưa có
+646,Trần Thu,Giáo Viên,Bình Dương,5 năm trở lên
+647,Lâm Ngọc Muội,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Cần Thơ, Cà Mau, Bạc Liêu",Chưa có
+648,Nguyễn Thị Thuỳ Dung,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Ninh Bình, Hà Nội, Lâm Đồng",1 năm
+649,Lã Thị Thảo Mai,Nhân Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+650,Thái Hoài Hương,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Tây Ninh, Long An, Lâm Đồng",Chưa có
+651,Hoàng Thị Kim Ngân,Tts Tuyển Dụng,"Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+652,Nguyễn Văn Hoà,Giám Sát,"Bình Dương, Hồ Chí Minh, Gia Lai, Kon Tum, Đắk Lắk",3 năm
+653,Nguyễn Thùy Trang,Nhân Viên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, An Giang, Đắk Lắk",5 năm trở lên
+654,Hồ Thị Thúy Linh,Hành Chính Nhân Sự/nvkd,Bình Dương,2 năm
+655,Dương Thị Trang,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đà Nẵng",1 năm
+656,Nguyễn Thị Kim Huệ,Cô Đọc Truyện Cho Bé,"Bình Dương, Lâm Đồng",1 năm
+657,Nguyễn Khắc Sinh,Nghiên Cứu Và Phát Triển Sản Phẩm,"Bình Dương, Hồ Chí Minh, Long An",5 năm trở lên
+658,Au Duong Nhu Ngoc,Student Club Activities Officer,"Bình Dương, Hồ Chí Minh, Hà Nội, Miền Bắc, Miền Nam",5 năm trở lên
+659,Trần Minh Đức,Thư Ký Văn Phòng,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+660,Phạm Thị Ngọc Băng,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Cần Thơ",Chưa có
+661,Nguyễn Thị Ngọc Dung,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+662,Lê Thị Hồng Phượng,Nhân Viên Sale/telesale Tư Vấn Khoá Học Tiếng Trung,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+663,Nguyễn Nhật Duy,Trợ Lý Giám Đốc Sản Xuất,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Cần Thơ, Đồng Nai",Chưa có
+664,Nguyễn Huỳnh Thị Cẩm Nhung,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Định, Đồng Nai",Chưa có
+665,Trần Thị Bảo Huyền,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",4 năm
+666,Nguyễn Thị Hồng Ân,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+667,Trần Thị Phương Nghi,Thư Ký Bộ Phận Đảm Bảo Chất Lượng,Bình Dương,Dưới 1 năm
+668,Đoàn Ngọc Mai Trâm,Nhân Viên Văn Phòng - Sale Admin,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đà Nẵng, Đồng Nai",5 năm trở lên
+669,Trần Thị Lành,Nhân Viên Văn Phòng,"Bình Dương, Hồ Chí Minh, Bình Phước, Lâm Đồng, Đồng Nai",Chưa có
+670,Nguyen Thi Hoai Nhu,Design Faculty Staff,Bình Dương,Dưới 1 năm
+671,Nguyễn Thị Thuỳ Linh,Nhân Viên Hành Chính Văn Phòng,Bình Dương,2 năm
+672,Nguyễn Niê Tường Vy,Nhân Viên,"Bình Dương, Hồ Chí Minh, Tây Ninh, Đắk Lắk, Đồng Nai",1 năm
+673,Nguyễn Thị Phương Thảo,Nhân Viên Văn Phòng Hành Chính,Bình Dương,5 năm trở lên
+674,Mang Thanh,Nhân Viên Thủ Kho,"Bình Dương, Hồ Chí Minh",5 năm trở lên
+675,Nguyễn Vân Anh,Nhân Viên Partime,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Hà Tĩnh, Hà Nội",Dưới 1 năm
+676,Phan Hồ Ngọc Thảo,Part Time,"Bình Dương, Hồ Chí Minh, Đồng Tháp, Bến Tre",1 năm
+677,Bùi Thị Thu Thảo Liên,Liên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",3 năm
+678,Lê Công Tấn,Nhân Viên Kinh Doanh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Kiên Giang",2 năm
+679,Lê Thị Thanh Trâm,Nhân Viên Lễ Tân,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+680,Nguyễn Hồ Tuyết Nhung,Cskh- Kế Toán,"Bình Dương, Hồ Chí Minh, Bình Định, Hà Nội, Hải Dương",5 năm trở lên
+681,Phạm Thị Ngọc Hiệp,Thư Ký Phòng Siêu Âm,"Bình Dương, Hồ Chí Minh, Long An, Đồng Nai, Bến Tre",2 năm
+682,Dinh Nguyen Tu Mai,English Teaching Assistant,Bình Dương,Dưới 1 năm
+683,Đặng Thái Bữu,Sales & Technical Assistance,Bình Dương,2 năm
+684,Nguyễn Thị Quỳnh Như,Nhân Viên Support,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh",1 năm
+685,Nguyễn Thị Minh Tâm,Nhân Viên Tư Vấn,"Bình Dương, Hồ Chí Minh, Thừa Thiên Huế, Quảng Nam, Quảng Bình",Chưa có
+686,Nguyễn Tuấn Việt,Nhân Viên Tư Vấn Du Lịch,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Hà Nội, Đà Nẵng",Dưới 1 năm
+687,Đinh Nhật Linh,Phiên Dịch Viên Tiếng Hàn,"Bình Dương, Hồ Chí Minh, Bình Phước, Hà Nội, Đà Nẵng",Chưa có
+688,Nguyễn Thị Thùy Dung,Quản Lý  Phục Vụ,Bình Dương,Dưới 1 năm
+689,Nguyễn Nguyệt Thu,Nhân Viên Tuyên Dụng,Bình Dương,5 năm trở lên
+690,Nguyễn Ngọc Quỳnh,Nhân Viên Văn Phòng,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+691,Nguyễn Thị Thu Vân,Giáo Viên Môn Ngữ Văn Thcs,Bình Dương,1 năm
+692,Đỗ Thụy Cẩm Tú,Nhân Viên Kinh Doanh,Bình Dương,Chưa có
+693,Huỳnh Kim Loan,Sales Assistant,"Bình Dương, Hồ Chí Minh, Long An, Hà Nội, Đà Nẵng",Chưa có
+694,Lê Phúc Thọ,Marketing,"Bình Dương, Hồ Chí Minh",Chưa có
+695,Nguyễn Thị Hồng Thanh,Nhân Viên Hành Chính Văn Phòng,Bình Dương,1 năm
+696,Trương Văn Tuấn,Ứng Viên Quản Lý Bưu Cục Thị Xã Ba Đồn,"Bình Dương, Hồ Chí Minh, Quảng Bình, Đồng Nai",Dưới 1 năm
+697,Le Thi Y Nhi,Employee,"Bình Dương, Hồ Chí Minh, An Giang, Lâm Đồng, Đồng Nai",4 năm
+698,Phan Thị Bạch Tuyết,Nhân Viên Văn Phòng,Bình Dương,3 năm
+699,A Đát H Hậu,Nhân Viên Văn Phòng,Bình Dương,Dưới 1 năm
+700,Lý Thị Kim Huệ,Nhân Viên Chỉnh Lý Hồ Sơ Lưu Trữ,"Bình Dương, Hồ Chí Minh, Đồng Nai",Dưới 1 năm
+701,Bùi Thị Mỹ Hạnh,"Bán Hàng, Văn Phòng, Giáo Viên Mầm Non","Bình Dương, Hồ Chí Minh",4 năm
+702,Hà Văn Sơn,Cộng Tác Viên,Bình Dương,5 năm trở lên
+703,Nông Thị Thuỳ Dương,Giáo Viên,Bình Dương,3 năm
+704,Chu Tuấn Anh,"Production Manager, Planning Staff, Product Development, Training Employees","Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",5 năm trở lên
+705,Nhat Le,Nhân Viên /giáo Viên,"Nghệ An, Bình Dương, Hồ Chí Minh, Lâm Đồng",1 năm
+706,Nguyen Thi Oanh,Translator And Interpreter,"Bình Dương, Hồ Chí Minh",Chưa có
+707,Mai Tuấn Anh,"Quản Trị Nhân Sự, Quản Lý Chi Nhánh","Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đà Nẵng",2 năm
+708,Nông Thị Hương Liễu,Nhân Viên Mở Tờ Khai Hải Quan,"Bình Dương, Thái Nguyên, Ninh Bình, Bắc Giang, Bắc Kạn",3 năm
+709,Nguyễn Thị Nga,Giáo Viên Dạy Kèm Online Tại Nhà,"Bình Dương, Hồ Chí Minh, Bình Thuận, Hà Nội, Đồng Nai",3 năm
+710,Nguyen Thi Song Ngan,Staff,Bình Dương,Chưa có
+711,Trương Thị Ngọc Thảo,Nhân Viên Văn Phòng,Bình Dương,2 năm
+712,Vũ Mai Phương,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+713,Lê Thị Thảo,Giáo Viên Mầm Non,Bình Dương,4 năm
+714,Tran Vu Trong Hieu,Contributors Write Articles For The Website,Bình Dương,Dưới 1 năm
+715,Trần Quốc Việt,Giáo Viên Tiểu Học,"Bình Dương, Hồ Chí Minh, Đồng Tháp, Lâm Đồng, Đồng Nai",4 năm
+716,Nguyễn Thị Ái Kiều,Giáo Viên Mầm Non,Bình Dương,4 năm
+717,Đinh Thị Lý,Giáo Viên Tiểu Học,Bình Dương,5 năm trở lên
+718,Nguyễn Thị Thanh Mai,Nhân Viên Ngân Hàng,"Bình Dương, Hồ Chí Minh, Tây Ninh, Lâm Đồng, Đồng Nai",Chưa có
+719,Nguyễn Thị Năm,Nhân Viên Văn Phòng,"Bình Dương, Đắk Nông, Đắk Lắk",3 năm
+720,Nguyễn Thị Vân Anh,Content Writer/content Marketing,"Bà Rịa - Vũng Tàu, Nghệ An, Bình Dương, Hồ Chí Minh, Đà Nẵng",2 năm
+721,Lê Thị Mai Phương,Translation Team Of Ashinaga,Bình Dương,2 năm
+722,Tô Thị Tuyết Nhung,Phiên Dịch,"Bình Dương, Lâm Đồng, Đồng Nai",3 năm
+723,Đinh Thị Ngọc Lan,Giáo Viên Tiếng Anh,Bình Dương,Dưới 1 năm
+724,Phan Thị Ngọc Hân,Chuyên Viên Can Thiệp,"Bình Dương, Hồ Chí Minh, Long An, Đồng Nai, Bến Tre",1 năm
+725,Lý Thị Thủy,Ctv Giáo Vụ,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+726,Trần Ngọc Trâm,Giáo Viên Tiếng Anh Online Lớp Kid,"Bình Dương, Hồ Chí Minh",Chưa có
+727,Nguyễn Thị Mỹ Phương,Giáo Viên Tiểu Học,Bình Dương,Chưa có
+728,Phạm Ngọc Châu Khanh,Teacher/ Lecturer,"Bình Dương, Hồ Chí Minh",3 năm
+729,Lê Thị Thưởng,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Thừa Thiên Huế, Hà Nội, Đà Nẵng",Chưa có
+730,Lê Thị Cẩm Tú,Telesale,Bình Dương,Dưới 1 năm
+731,Thái Thành Luân,Nhân Viên Điều Phối,"Trà Vinh, Bình Dương, Hồ Chí Minh, Sóc Trăng, Cần Thơ",Chưa có
+732,Nguyễn Anh Tuấn,Giáo Viên Tiếng Anh,Bình Dương,1 năm
+733,Khúc Ngọc Dũng,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Thái Bình, Nam Định, Hà Nội",2 năm
+734,Nguyen Phan Cam Yen,English Teacher,"Bình Dương, Hồ Chí Minh, Tây Ninh, Lâm Đồng",5 năm trở lên
+735,Đào Thị Hoàng Hạnh,"Nhân Viên Cskh, Sales","Bình Dương, Hồ Chí Minh",5 năm trở lên
+736,Nguyễn Mai Hằng,Gia Sư,"Bình Dương, Hồ Chí Minh, Đà Nẵng",2 năm
+737,Nguyễn Ngọc Quyên,Nhân Viên Chăm Sóc Khách Hàng,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+738,Nguyễn Thị Huyền,Hành Chính- Kế Toán,Bình Dương,Chưa có
+739,Lâm Thị Lôc,Giáo Viên Ngữ Văn,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",4 năm
+740,Nguyễn Tú Uyên,Member Ban Đối Ngoại,"Bình Dương, Hồ Chí Minh, Hà Nội",Chưa có
+741,Nguyễn Thị Thuỳ Linh,Giáo Viên Tiếng Anh,Bình Dương,4 năm
+742,Nguyễn Thị Hoài Nhi,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Quảng Nam, Hà Nội, Đà Nẵng",2 năm
+743,Trần Thu Hường,Nhân Viên Kế Hoạch - Nhân Viên Kho,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",3 năm
+744,Nguyễn Ngọc Mai,Nhân Viên Qa Ngành Dệt May,"Bình Dương, Đắk Lắk",4 năm
+745,Trần Minh Tiến,Giáo Viên,"Bình Dương, Hồ Chí Minh, Thừa Thiên Huế, Quảng Bình, Đà Nẵng",Chưa có
+746,Phan Thị Tuyết,Giáo Viên Đồng Hành,"Bình Dương, Hồ Chí Minh",5 năm trở lên
+747,H Nhíp Bkrông,Nhân Viên Văn Phòng Kho Buôn Đôn,"Bình Dương, Đắk Lắk",Chưa có
+748,Huynh Thuy Truc Mai,Điều Phối Kho,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Kiên Giang, Lâm Đồng",5 năm trở lên
+749,Dao Thanh Sang,Teamleader,"Bình Dương, An Giang",5 năm trở lên
+750,Lê Anh Thinh,Giáo Viên Đồng Hành,"Bình Dương, Hồ Chí Minh",3 năm
+751,Nguyễn Thị Lan Hương,Giáo Viên Đồng Hành,"Bình Dương, Bình Phước",4 năm
+752,Võ Thị Sơ Ri,Võ Thị Sơ Ri,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Cần Thơ, Bến Tre",Chưa có
+753,Nguyễn Thị Ngọc Duyên,Nhân Viên Văn Phòng,Bình Dương,3 năm
+754,Nguyễn Hồng Nhung,Trợ Giảng,"Bình Dương, Hồ Chí Minh, Hà Tây, Hà Nội, Bắc Giang",1 năm
+755,Nguyễn Thị Ngọc,Data Entry Staff,Bình Dương,3 năm
+756,Nguyễn Thị Xuân Thủy,Nhân Viên Kế Toán - Thu Ngân - Bán Hàng,Bình Dương,5 năm trở lên
+757,Phan Thị Ngọc Yến,Nhân Viên Văn Phòng,Bình Dương,1 năm
+758,Mỹ Huyền,Sale Phone,"Bình Dương, Bình Định, Gia Lai, Bình Phước, Đắk Lắk",Dưới 1 năm
+759,Phạm Thị Thu Thanh,Phó Hiệu Trưởng Trường Mầm Non,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+760,Võ Quang Thu,Giáo Viên Công Nghệ (Thpt),"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+761,Trần Thị Hoan,"Trợ Lý Nhân Sự, Nhân Sự Tuyển Dụng",Bình Dương,Dưới 1 năm
+762,Nguyen Thi My Linh,Commercial Executive,"Nghệ An, Bình Dương, Hồ Chí Minh, An Giang, Thừa Thiên Huế",1 năm
+763,Đỗ Thị Chi Linh,Nhân Viên Hành Chính Văn Phòng,"Bình Dương, An Giang",Dưới 1 năm
+764,Lê Thị Cẩm Nhung,Giáo Viên Tiểu Học,Bình Dương,3 năm
+765,Tran Thi Lam,Teacher,Bình Dương,Dưới 1 năm
+766,Nguyễn Hồng Sơn,"Chuyên Viên An Toàn Lao Động, Sức Khỏe Môi Trường","Bình Dương, Bắc Giang",4 năm
+767,Lê Hoàng Tố,Qc,"Bình Dương, Hồ Chí Minh, Cà Mau",Dưới 1 năm
+768,Ho Trong Tin,Nhan Vien Phien Dich,"Bình Dương, Hồ Chí Minh",2 năm
+769,Vũ Thị Nguyệt,Giáo Viên,Bình Dương,Dưới 1 năm
+770,Lê Võ Phương Thảo,Kế Hoạch Thu Mua,Bình Dương,3 năm
+771,Dương Quốc Thống,"Nhân Viên Văn Phòng, Nhân Sự","Bình Dương, Đắk Lắk",5 năm trở lên
+772,Lương Thị Hương Mai,Thời Vụ,Bình Dương,2 năm
+773,Phạm Thị Hồng Vy,Bác Sĩ Điều Trị Và Phẫu Thuật,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Gia Lai, Hải Dương",1 năm
+774,Nguyễn Lê Thùy Dương,Nhân Viên Kế Toán,"Bình Dương, Hồ Chí Minh",Chưa có
+775,Nguyen Vo Phuong Anh,Accountant,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Lâm Đồng, Đồng Nai",1 năm
+776,Nguyễn Thành Trung,Nhân Viên Quan Hệ Khách Hàng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Lâm Đồng, Cần Thơ",2 năm
+777,Huỳnh Minh Trí,Nhân Viên Điều Phối Giao Nhận,"Bình Dương, Kiên Giang, An Giang",1 năm
+778,Tran Thi Thuy,Sale Admin,Bình Dương,2 năm
+779,Trần Hàn Quốc,Giáo Viên Ngữ Văn,Bình Dương,Chưa có
+780,Nguyễn Thị Vinh,Nhân Viên Văn Phòng - Bhxh,"Bình Dương, Hồ Chí Minh",2 năm
+781,Bùi Thị Nguyệt,Thực Tập Sinh Hành Chính,"Bình Dương, Hồ Chí Minh",Chưa có
+782,Nguyễn Hoàng Minh Thuận,Kỹ Sư Xây Dựng,Bình Dương,Dưới 1 năm
+783,Phan Thị Quỳnh Phương,Trợ Lý Kinh Doanh,Bình Dương,Chưa có
+784,Dương,Mai Quang Dương,"Bình Dương, Hồ Chí Minh, Đắk Nông, Đắk Lắk, Đồng Nai",Chưa có
+785,Đinh Nguyễn Trường An,Biên Dịch Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+786,Lâm Vỉnh Kỳ,Kỹ Thuật Viên Lắp Ráp,"Bình Dương, Hồ Chí Minh, Đồng Tháp, Đồng Nai",Chưa có
+787,Nguyễn Ngọc Phương Linh,Kế Toán Tổng Hợp,Bình Dương,Chưa có
+788,Lưu Quí Thịnh,Sinh Viên Thực Tập,Bình Dương,Chưa có
+789,Nguyễn Lan Anh,Nhân Viên,"Bình Dương, Hồ Chí Minh, Bình Định",Chưa có
+790,Phạm Thị Nho,Vị Trí: Nhân Viên Tư Vấn Bán Hàng,"Bình Dương, Hồ Chí Minh",1 năm
+791,Bùi Thị Tuyết Mai,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh, Đồng Tháp",Chưa có
+792,Biện Thị Ngọc Trâm,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh",Chưa có
+793,Đinh Mỹ Duyên,Tt Sinh Xuất Nhập Khẩu,"Bình Dương, Hồ Chí Minh, Bình Định, Đà Nẵng, Miền Trung",Chưa có
+794,Nguyễn Thúy Hồng,Thực Tập Sinh Marketing,"Bình Dương, Hồ Chí Minh, Gia Lai, Hà Nội, Đà Nẵng",Chưa có
+795,Trương Thái Anh,Sales Agent,"Bình Dương, Hồ Chí Minh, Bình Định, Quảng Ngãi, Đồng Nai",Chưa có
+796,Trần Thụy Phương Thùy,Officer Staff,Bình Dương,Chưa có
+797,Trần Thị Diễm Thúy,Nhân Viên Hành Chính,Bình Dương,Dưới 1 năm
+798,Lê Thị Thu Hương,Quản Trị Kinh Doanh,"Bình Dương, Hồ Chí Minh",Chưa có
+799,Bùi Thanh Nga,Quản Trị Mạng Máy Tính,Bình Dương,Chưa có
+800,Nguyễn Ngọc Hân,Nhân Viên Văn Phòng Xưởng,"Bình Dương, An Giang, Cần Thơ",1 năm
+801,Vo Thi Tuyet Nhi,Import-Export Staff,Bình Dương,1 năm
+802,Lê Thị Diễm My,Nhân Viên Văn Phòng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Tây Ninh, Đồng Nai",Chưa có
+803,Nguyễn Văn Hòa,Kỹ Sư Hóa Học,"Bình Dương, Hồ Chí Minh, Đồng Nai",Dưới 1 năm
+804,Nguyễn Thị Cẩm Tiên,Nhân Viên Qc,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",Chưa có
+805,Nguyễn Thị Kim Duyên,Salesperson,"Bình Dương, Hồ Chí Minh",Chưa có
+806,Trần Thị Thu Hà,Hành Chính Nhân Sự,"Bình Dương, Hồ Chí Minh",Chưa có
+807,Lê Đào Yến Nhi,Quản Trị Mạng Máy Tính,Bình Dương,Chưa có
+808,Nguyễn Trọng Hữu,Nhân Viên Dữ Liệu Sản Xuất,"Bình Dương, Hồ Chí Minh",Chưa có
+809,Đỗ Thị Phương Thảo,Nhân Viên Bán Hàng,Bình Dương,Chưa có
+810,Nguyễn Thị Hằng,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+811,Quan Thành Tính,Kĩ Thuật Trại Gà,Bình Dương,Chưa có
+812,Trần Thị Kim Nhung,Nhân Viên Văn Phòng/pháp Lý/thư Ký/lễ Tân,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An",Dưới 1 năm
+813,Nguyễn Nhật Linh,Nhân Viên Tư Vấn Tín Dụng,"Bình Dương, Hồ Chí Minh, Đà Nẵng",Chưa có
+814,Lê Hoài Nam,Sinh Viên Mới Ra Trường,"Bình Dương, Hồ Chí Minh",Chưa có
+815,Võ Thị Phương Nhã,Nhân Viên R&d,"Bình Dương, Hồ Chí Minh, Bình Phước",Chưa có
+816,Tô Phước Đăng,Lễ Tân Khách Sạn,Bình Dương,Chưa có
+817,Nguyễn Lê Hồng Đoan,Nhân Viên Kiểm Tra Chất Lượng,"Vĩnh Long, Bình Dương, Hồ Chí Minh, Tiền Giang, Cần Thơ",Dưới 1 năm
+818,Phan Hoàng Duy,Nhân Viên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Tiền Giang, Đồng Nai",Chưa có
+819,Nguyễn Hồ Thị Kiều Tiên,Nhân Viên Qa/qc,"Vĩnh Long, Bình Dương, Hồ Chí Minh, An Giang, Cần Thơ",Chưa có
+820,Tô Thiên Phúc,Chuyên Viên Khách Hàng,Bình Dương,Chưa có
+821,Lê Thị Thu Hiền,Ctv Nhân Viên,Bình Dương,Chưa có
+822,Phạm Thị Ngọc Băng,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Cần Thơ",Chưa có
+823,Lê Thị Ngọc Trâm,Nhân Viên Thống Kê,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Kiên Giang, Đồng Nai",Chưa có
+824,Nguyễn Thị Tuyết Nhung,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh",Chưa có
+825,Nguyễn Minh Hưng,Nhân Viên Kiểm Soát Chất Lượng Qc/qa,"Bình Dương, Hồ Chí Minh, Bình Định, Hà Nội, Bến Tre",Chưa có
+826,Lê Minh Tân,Nhân Viên Kỹ Thuật,"Bình Dương, Hồ Chí Minh, Long An, An Giang, Cần Thơ",Chưa có
+827,Trần Thị Tuyết Thanh,Kế Toán,Bình Dương,Chưa có
+828,Đặng Khánh Linh,Điều Dưỡng Chuyên Ngành Gây Mê Hồi Sức,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bến Tre, Miền Nam",Chưa có
+829,Nguyễn Thị Hồng Đào,Ứng Tuyển : Kế Toán Nhập Liệu,Bình Dương,Chưa có
+830,Nguyễn Thị Hà Miên,Nhân Viên Phục Vụ,"Phú Yên, Bình Dương, Hồ Chí Minh",Chưa có
+831,Võ Hoàng Anh Thi,Thực Tập Sinh,Bình Dương,Chưa có
+832,Nguyễn Thanh Sang,Đại Diện Tiêu Thụ ( Sales Representative ),"Vĩnh Long, Bình Dương, Cần Thơ",5 năm trở lên
+833,Trần Thị Minh Hồng,Chuyên Viên Tư Vấn,"Bình Dương, Hồ Chí Minh, Bình Thuận, Lâm Đồng",Chưa có
+834,Nguyễn Thị Diệu Hạnh,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+835,Phạm Thị Yến Anh,Trợ Lý/ Thư Ký,"Bình Dương, Hồ Chí Minh, Bình Thuận, Hà Nội, Đồng Nai",Chưa có
+836,Bùi Thị Ngọc,Nhân Viên Kế Toán Kho,"Bình Dương, Hồ Chí Minh, Đắk Nông, Đắk Lắk, Đồng Nai",Chưa có
+837,Hoàng Thị Kiều Oanh,Nhân Viên Qc,"Bình Dương, Hồ Chí Minh, Hà Nội, Quảng Trị, Đồng Nai",Chưa có
+838,Phan Huỳnh Thanh Tín,Thực Tập Sinh,"Phú Yên, Bình Dương, Hồ Chí Minh, Bình Định, Đồng Nai",Chưa có
+839,Vũ Hà Yến Ngọc,Kế Toán,Bình Dương,Chưa có
+840,Nguyễn Hoàng Yến Vi,Part Time,Bình Dương,2 năm
+841,Huỳnh Văn Tình,Nhân Viên Bảo Trì,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Chưa có
+842,Ho Thi Lam Nhu,Hr Administrator,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+843,Nguyễn Văn Trạng,Nhân Viên Nhập Mã Code,"Bình Dương, An Giang",Dưới 1 năm
+844,Châu Bảo Nguyên,Nhân Viên Khai Báo Chứng Từ Hải Quan,"Bình Dương, Hồ Chí Minh",Chưa có
+845,Phạm Thu Ngọc,Nhân Viên Hành Chính - Nhân Sự,Bình Dương,Chưa có
+846,Phan Trung Đông,Nhân Viên,"Bà Rịa - Vũng Tàu, Vĩnh Long, Bình Dương, Cà Mau, Đồng Nai",1 năm
+847,Trần Mai,Tư Vấn,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Hà Tĩnh, Đà Nẵng",Dưới 1 năm
+848,Nguyễn Thị Tú Quyên,Nhân Viên Bán Hàng,Bình Dương,Chưa có
+849,Dương Thị Mộng Hương,Công Nhân,"Bình Dương, Hồ Chí Minh, Tiền Giang, Cần Thơ",Chưa có
+850,Ngạc Thị Thuỳ Nhung,Tư Vấn Viên,Bình Dương,Chưa có
+851,Nguyễn Minh An,Nhân Viên Kỹ Thuật Lắp Đặt Thiết Bị,"Vĩnh Long, Bình Dương, Hồ Chí Minh, Long An, Cần Thơ",Chưa có
+852,Đặng Thị Hồng Ngọc,Kế Toán Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",Dưới 1 năm
+853,Nguyễn Niê Tường Vy,Nhân Viên,"Bình Dương, Hồ Chí Minh, Tây Ninh, Đắk Lắk, Đồng Nai",1 năm
+854,Võ Hoàng Trúc,Nhân Viên Hành Chính,"Bình Dương, Hồ Chí Minh",Chưa có
+855,Phạm Hữu Phúc,Operation Engineer,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Tiền Giang, Đồng Nai",Chưa có
+856,Lý Mỹ Nhân,Lễ Tân,"Bình Dương, Hồ Chí Minh, Bình Phước",1 năm
+857,Nguyễn Thị Phương,Nhân Viên Bán Thời Gian,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Tây Ninh, Bình Phước",Chưa có
+858,Nguyễn Thị Mỹ Loan,Ktv Xét Nghiệm,Bình Dương,Chưa có
+859,Nguyễn Chí Hùng,Part Time,Bình Dương,Chưa có
+860,Nguyễn Văn Phông,Vân Hành Dây Chuyền Sản Xuất Cafe Hoà Tan Tự Động Hoá,"Phú Yên, Bình Dương, Hồ Chí Minh, Khánh Hòa",Chưa có
+861,Lương Thị Tuyết Nhi,Công Nghệ Thực Phẩm,"Bình Dương, Hồ Chí Minh, Đồng Nai, Bến Tre",Dưới 1 năm
+862,Lê Xuân Quang Hùng,Sv Kĩ Thuật Điện,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Dưới 1 năm
+863,Nguyễn Ngọc Hoàng,Nhân Viên Văn Phòng,"Bình Dương, Hồ Chí Minh, Đồng Nai",3 năm
+864,Đặng Thị Thái,Thu Ngân,Bình Dương,2 năm
+865,Bùi Như Quỳnh,Nhân Viên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đà Nẵng",Chưa có
+866,Phạm Thị Thùy Linh,"Nhân Viên Qc, Nhân Viên Văn Phòng","Bình Dương, Hồ Chí Minh, Đồng Tháp",Chưa có
+867,Trần Thị Thùy Linh,Nhân Viên Kho,Bình Dương,Chưa có
+868,Phan Mỷ Chiên,Nhân Viên Kế Toán,"Bình Dương, Hồ Chí Minh, Long An, Lâm Đồng, Đồng Nai",Chưa có
+869,Nguyễn Thanh Quang,Nhân Viên Dữ Liệu Kho,Bình Dương,1 năm
+870,Nguyễn Hoàng Tuyết Nhi,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+871,Hà Thị Thuỳ,Nhân Viên Kế Toán,Bình Dương,1 năm
+872,Vũ Thị Bích Ngọc,Hành Chính Nhân Sự,"Bình Dương, Hồ Chí Minh, Hải Dương, Đồng Nai, Bắc Giang",Chưa có
+873,Nguyễn Tấn Lợi,Ktv Sơn,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+874,Tôn Thị Thảo Linh,Nhân Viên Giám Sát Kho Vận,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Bến Tre",Chưa có
+875,Phạm Hồng Nguyên,Trợ Lý Nghiệp Vụ,"Bình Dương, Bình Phước",Chưa có
+876,Nguyễn Thị Thanh Thúy,Nhân Viên Tiếp Thị,Bình Dương,4 năm
+877,Lê Thị Cẩm Nhung,Nhân Viên Phòng Lab,"Bình Dương, Hồ Chí Minh",Chưa có
+878,Nguyễn Thị Ngọc Hân,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+879,Nguyễn Văn Được,Nhân Viên Vp,Bình Dương,Chưa có
+880,Nguyễn Thị Thanh Ly,Kcs/qc/qa,"Bình Dương, Hồ Chí Minh, Bình Định, Đồng Nai",Chưa có
+881,Bùi Kim Hằng,Nhân Viên Văn Phòng,Bình Dương,Dưới 1 năm
+882,Trịnh Ngọc Như,"Nhân Viên Kinh Doanh, Nhân Viên Văn Phòng",Bình Dương,Chưa có
+883,La Thành Gia Thịnh,Nhân Viên Kỹ Thuật,"Hậu Giang, Bình Dương, Hồ Chí Minh, Cần Thơ, Đồng Nai",1 năm
+884,Trần Hoàng Thủy Tiên,Nhân Viên Đăng Ký Thuốc,"Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Chưa có
+885,Hà Thị Mỹ Linh,Xin Việc Làm,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+886,Hồ Sỹ Tâm,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+887,Trần Tiến Quân,Kỹ Sư Xây Dựng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An",Chưa có
+888,Nguyễn Thái Phương,Nhân Viên Qc,"Bình Dương, Hồ Chí Minh, Long An",Chưa có
+889,Nguyễn Hữu Minh Khang,Thực Tập Sinh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Khánh Hòa, Đà Nẵng",Chưa có
+890,Bùi Thị Thiên An,Process Technician,"Bà Rịa - Vũng Tàu, Bình Dương, Bình Định, Đà Nẵng",Chưa có
+891,Nguyễn Thị Mơ,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+892,Vũ Văn Huy,Intern,Bình Dương,Chưa có
+893,Nguyễn Thị Thái An,Nhân Viên  Kinh Doanh,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+894,Bùi Thị Yến Linh,Nhân Viên Kiểm Tra Tin Nhắn Online,Bình Dương,2 năm
+895,Hồ Công Bảo,Ngành Xây Dựng,"Phú Yên, Bình Dương, Hồ Chí Minh, Khánh Hòa, Hà Nội",Chưa có
+896,Phạm Thị Mỹ Hạnh,Thu Ngân,Bình Dương,Chưa có
+897,Nguyễn Tuyết Nhi,Nhân Viên Nhân Sựnhân Viên Kinh Doanh,"Bình Dương, Tây Ninh, Long An, Đồng Nai",Chưa có
+898,Đoàn Thị Mỹ Trinh,Nhân Viên Kinh Doanh,Bình Dương,Chưa có
+899,Hồ Thị Hằng,Cử Nhân Phục Hồi Chức Năng,"Nghệ An, Bình Dương, Hồ Chí Minh, Đà Nẵng, Đồng Nai",Chưa có
+900,Bùi Thị Mỹ Hạnh,"Bán Hàng, Văn Phòng, Giáo Viên Mầm Non","Bình Dương, Hồ Chí Minh",4 năm
+901,Nguyễn Thị Kim Huệ,"Quản Lý Chất Lượng, Nghiên Cứu Và Phát Triển","Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Chưa có
+902,Nguyễn Trung Tính,"Nhân Viên Qa, Qc","Hậu Giang, Trà Vinh, Bình Dương, Hồ Chí Minh, Cần Thơ",Dưới 1 năm
+903,Phạm Hữu Hải,Quản Lý Ký Túc Xá Công Nhân,"Bình Dương, Bình Phước",1 năm
+904,Nguyễn Thị Nga,Giáo Viên Dạy Kèm Online Tại Nhà,"Bình Dương, Hồ Chí Minh, Bình Thuận, Hà Nội, Đồng Nai",3 năm
+905,Nguyễn Huỳnh Bảo Thanh,Nhân Viên Văn Phòng,Bình Dương,Dưới 1 năm
+906,Nguyen Thi Song Ngan,Staff,Bình Dương,Chưa có
+907,Vũ Mai Phương,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+908,Ngụy Tống Thảo Nguyên,Content Chăm Sóc Khách Hàng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+909,Ông Yến Nhi,Marketing,Bình Dương,Chưa có
+910,Nguyễn Minh Thư,Thực Tập Sinh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Đồng Nai",Chưa có
+911,Phan Nhị Hoa,Nhân Viên Bán Hàng,"Bình Dương, Hồ Chí Minh, Cần Thơ, Cà Mau, Đồng Nai",Chưa có
+912,Nguyen Vo Long,Mep Engineer,"Bình Dương, Hồ Chí Minh, Đồng Nai",2 năm
+913,Đoàn Quốc Thắng,Nhân Viên Bảo Trì Điện - Điện Lạnh,"Bình Dương, Hồ Chí Minh, Hà Nội, Đà Nẵng, Đồng Nai",Chưa có
+914,Nguyễn Thị Đồng,Nhân Viên Văn Phòng,Bình Dương,2 năm
+915,Phạm Văn Khôi,Nhân Viên,Bình Dương,Dưới 1 năm
+916,Nguyễn Hiền Thảo Nguyên,Muốn Làm Online Tại Nhà,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đà Nẵng, Đồng Nai",Chưa có
+917,Lại Minh Hiếu,Sản Xuất / Vận Hành Sản Xuất,"Bình Dương, Đồng Nai",Chưa có
+918,Phạm Văn Thao,Vận Hành Viên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Chưa có
+919,Phạm Thị Thuỳ Linh,Điều Dưỡng Viên,Bình Dương,Chưa có
+920,Lê Văn Huy,Phó / Trưởng Phòng Kỹ Thuật,Bình Dương,Dưới 1 năm
+921,Trương Thị Hoài Nam,Hr Or Content Writing,"Bình Dương, Hồ Chí Minh",Chưa có
+922,Vũ Thị Hải Yến,Nhân Viên Văn Phòng,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+923,Nguyễn Thị Anh Thư,"Nhân Viên Qa, Qc, R&d, Thiết Kế Sản Xuất","Bình Dương, Hồ Chí Minh, Khánh Hòa, Hà Nội, Đà Nẵng",Dưới 1 năm
+924,Nguyễn Thị Châu Anh,Nhân Viên Qa,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+925,Trần Thị Vân Nhi,Nhân Viên Kế Hoạch,"Bình Dương, Hồ Chí Minh, Gia Lai, Thừa Thiên Huế, Đà Nẵng",Chưa có
+926,Hoàng Trung Hiếu,Thợ Điện Lắp Đặt Đồ Chơi Xe Hơi,Bình Dương,Chưa có
+927,Nguyễn Minh Quang,Nhân Viên,Bình Dương,Chưa có
+928,Vũ Thu Hương,Nhân Viên Phục Vụ,"Bình Dương, Hồ Chí Minh, Quảng Nam, Hà Nội, Đà Nẵng",1 năm
+929,Phạm Thị Ngọc Phượng,Nhân Viên Kinh Doanh,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Tây Ninh, An Giang",Chưa có
+930,Trần Thị Thu Hiền,Điều Phối Kho Giao Hàng,"Bình Dương, Hồ Chí Minh, Lâm Đồng",3 năm
+931,Phan Thị Thanh Thảo,Nhân Viên R&d,"Bình Dương, Hồ Chí Minh",Chưa có
+932,Tạ Đức Oai,Nhân Viên Kỹ Thuật Trại Heo,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Cần Thơ, Đồng Nai",Dưới 1 năm
+933,Đỗ Đức Hiện,Nhân Viên Bảo Trì,"Bình Dương, Hồ Chí Minh, Gia Lai, Hà Nội, Đồng Nai",Chưa có
+934,Nguyễn Thị Thu Hằng,Nhân Viên Kế Toán,"Bình Dương, Hồ Chí Minh, Bình Phước, Hà Nội, Lâm Đồng",Chưa có
+935,Hoàng Quốc Huy,"Giám Sát, Thiết Kế Hvac","Bình Dương, Hồ Chí Minh, Hưng Yên, Hà Nội, Hải Phòng",1 năm
+936,Bùi Thị Thanh Hoa,Nhân Viên Chăm Sóc Khách Hàng,"Bình Dương, Hồ Chí Minh",Chưa có
+937,Hoang Van Quan,Intership,"Bà Rịa - Vũng Tàu, Nghệ An, Bình Dương, Hồ Chí Minh, Bình Thuận",Chưa có
+938,Trịnh Quốc Toản,Thực Tập Sinh,"Trà Vinh, Bình Dương, Hồ Chí Minh",Chưa có
+939,Nguyễn Thị Phượng,Nhân Viên Kinh Doanh - Nhân Viên Chứng Từ Xnk,"Bình Dương, Hồ Chí Minh, Đắk Nông",Dưới 1 năm
+940,Hồ Thị Bích Ngọc,Nhân Viên Bán Hàng,Bình Dương,1 năm
+941,Trịnh Thị Hoa,Nhân Viên Kế Toán,"Bình Dương, Hồ Chí Minh, Thanh Hóa, Hà Nội, Đồng Nai",Chưa có
+942,Lê Thị Phương,Nhân Viên Văn Phòng,"Nghệ An, Bình Dương, Thanh Hóa, Hà Tĩnh, Hà Nội",2 năm
+943,Nguyen Thi Thuy Luong,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+944,Trần Thị Kim Hiền,Nhân  Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",5 năm trở lên
+945,Vũ Tiên Hoàng,Thực Tập Sinh - Phát Triển Sản Phẩm,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Long An, Đồng Nai",Dưới 1 năm
+946,Châu Nguyễn,Nhân Viên Bán Hàng,Bình Dương,3 năm
+947,Võ Thị Sơ Ri,Võ Thị Sơ Ri,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Cần Thơ, Bến Tre",Chưa có
+948,Võ Thị Cẩm Ly,Nhân  Viên,"Bình Dương, Đồng Nai",Dưới 1 năm
+949,Ninh Nguyễn Thanh Hằng,Nhân Viên,Bình Dương,3 năm
+950,Nguyễn Thị Vàng,Nhân Viên Kiểm Định Chất Lương Qc,"Bình Dương, Hồ Chí Minh, Long An, Đồng Tháp, Lâm Đồng",Chưa có
+951,Nguyễn Thị Yến Nhi,Nhân Viên Nhân Sự,Bình Dương,Chưa có
+952,Hồ Khải Huy,Hướng Dẫn Viên Du Lịch,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Phước, Lâm Đồng",Chưa có
+953,Đặng Thị Phương,Nhân Viên Văn Phòng,Bình Dương,Dưới 1 năm
+954,Phan Huỳnh Như Hoài,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Bình Định, Đà Nẵng",Chưa có
+955,Đinh Thị Thu Vân,Nhân Viên Hành Chánh Nhân Sự,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Hà Nội",Chưa có
+956,Nguyễn Văn Năm,Vận Hành Máy Phay Cnc/ Tiện Cnc,Bình Dương,Chưa có
+957,Nguyễn Thị Xuân,Giáo Viên,Bình Dương,1 năm
+958,Huỳnh Anh Thư,Nhân Viên Y Tế,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+959,Bùi Thị Trang,"Hành Chính - Nhân Sự, Công Nghệ Thông Tin, Kế Toán Kho",Bình Dương,Chưa có
+960,Nguyễn Thành Nhân,Thiết Kế Đồ Hoạ,Bình Dương,Chưa có
+961,Cao Thị Thu Thơm,Qc/ Kcs Thực Phẩm,"Bình Dương, Hồ Chí Minh, Thừa Thiên Huế",Chưa có
+962,Nguyen Ngoc Tuan Dinh,Operator,Bình Dương,Dưới 1 năm
+963,Phạm Như Quỳnh,Nhân Viên Kế Toán,Bình Dương,Chưa có
+964,Lê Nhật Tiến,Kĩ Sư Thiết Kế Cơ Khí,"Bình Dương, Hồ Chí Minh, Cần Thơ, Đồng Nai",Chưa có
+965,Le Huu Tieng,Electrical Engineer,"Bình Dương, Hồ Chí Minh, Đồng Nai",Dưới 1 năm
+966,Văn Thị Mỹ Trang,Sale- Marketing,"Bình Dương, Quảng Nam, Đà Nẵng",Chưa có
+967,Nguyễn Anh Tuấn,Nhân Viên Thiết Kế,Bình Dương,Chưa có
+968,Nguyễn Thị Thuý Hằng,Nhân Viên Thú Y,"Bà Rịa - Vũng Tàu, Bình Dương, Tây Ninh, Bình Phước, Đồng Nai",Chưa có
+969,Hồ Thị Bích Thảo,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+970,Lăng Thị Lành,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+971,Nguyen Vo Phuong Anh,Accountant,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Lâm Đồng, Đồng Nai",1 năm
+972,Huỳnh Nguyễn Phương  Vi,"Nhân Viên Bán Hàng, Nhân Viên Văn Phòng, Nhân Viên Kho, Qc",Bình Dương,1 năm
+973,Đàm Thị Sương,Nhân Viên Kế Toán,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+974,Trần Dương Khang,Vị Trí Ứng Tuyển:cad Operator,Bình Dương,Dưới 1 năm
+975,Nguyễn Trọng Hữu,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+976,Nguyễn Thị Nhung,Ứng Tuyển Thực Tập Công Ty Cổ Phần Viễn Thông Fpt Chi Nhánh Bình Dương * Vị Trí : Phòng Ban Kế Toán,Bình Dương,Chưa có
+977,Dương Mỹ Thanh,Official Staff,Bình Dương,Dưới 1 năm
+978,Nguyễn Công Tạo,Nhân Viên Văn Phòng,"Phú Yên, Bình Dương",Dưới 1 năm
+979,Lê Mạnh Thường,Cố Vấn Dịch Vụ/ Kỹ Thuật Viên Sửa Chữa Ô Tô,"Bình Dương, Hồ Chí Minh, Cần Thơ, Cà Mau, Đồng Nai",Dưới 1 năm
+980,Nguyễn Phương Ngân,Ctv,"Bình Dương, Hồ Chí Minh, Tiền Giang, Hà Nội",Chưa có
+981,Lưu Minh Đức,Nhân Viên Cơ Điện Tử,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+982,Nguyễn Quang Hợp,Qa/qc,"Bình Dương, Hồ Chí Minh, Tây Ninh, Long An, Bình Phước",Chưa có
+983,Nguyễn Thị Cẩm Tiên,Nhân Viên,Bình Dương,Dưới 1 năm
+984,Lương Thị Yến Nhi,Thực Tập Sinh Nhân Sự,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",Chưa có
+985,Đặng Đức Thịnh,Nhân Viên Cơ Khí,"Bình Dương, Bình Định, Quảng Ngãi",2 năm
+986,Lê Văn Lực,Nhân Viên,Bình Dương,Chưa có
+987,Trần Đình Thông,Kỹ Sư Hóa Học,"Bình Dương, Hồ Chí Minh",Chưa có
+988,Nguyễn Ngọc Ân,Nhân Viên Kinh Doanh,Bình Dương,Chưa có
+989,Nguyễn Như Ý,Nhân Viên,"Bình Dương, Hồ Chí Minh, Đắk Nông, Đắk Lắk, Đồng Nai",Dưới 1 năm
+990,Đặng Viết Phụng,Trợ Lý Tuyển Dụng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Thừa Thiên Huế",2 năm
+991,Huỳnh Thị Mỹ Duyên,Kế Toán Viên,Bình Dương,Dưới 1 năm
+992,Hồ Thị Thúy Hằng,Kế Toán Viên,Bình Dương,Dưới 1 năm
+993,Hồ Thị Thúy Hằng,Kế Toán Viên,Bình Dương,Dưới 1 năm
+994,Đỗ Thị Huỳnh Như,Ứng Tuyển Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh, Tây Ninh, Long An, Đồng Nai",Chưa có
+995,Nguyễn Thành Lâu,Ứng Tuyển Nhân Viên Công Ty,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+996,Nguyễn Hoài Linh,Commis,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+997,Nguyễn Thị Quỳnh Như,Chuyên Viên Tư Vấn,Bình Dương,Chưa có
+998,Võ Thị Ngọc Thảo,Thực Tập Sinh Kế Toán,Bình Dương,Chưa có
+999,Hoàng Thị Thuyết,"Nhân Viên Hành Chính Nhân Sự, Nhân Sự, Văn Phòng","Bình Dương, Hồ Chí Minh, Tây Ninh, Bình Phước, Đồng Nai",Chưa có
+1000,Trần Hoàng Thư,"Hỗ Trợ Kế Toán, Nhân Viên Kế Toán","Bình Dương, Hồ Chí Minh",Chưa có
+1001,Phan Ngọc Tân,Nhân Viên Tư Vấn Kinh Doanh,Bình Dương,Chưa có
+1002,Phạm Thị Quỳnh,Biên Phiên Dịch- Hành Chính Văn Phòng,Bình Dương,Dưới 1 năm
+1003,Trần Thị Xuân Tuyền,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh",Chưa có
+1004,Lê Thị Thùy Trang,Nhân Viên Kế Toán,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Ninh Thuận, Đồng Nai",1 năm
+1005,Bùi Thọ Nhật Duy,Nhân Viên G-Lab,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Hà Nội, Đồng Nai",Chưa có
+1006,Mai Thuc Lan,Engineer,Bình Dương,Chưa có
+1007,Lê Thị Ngọc Hoài,Pr Consultant Content Marketing,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",Chưa có
+1008,Đinh Thị Xuân Hồng,Đóng Gói,"Bình Dương, Hồ Chí Minh, Lâm Đồng",Chưa có
+1009,Trương Thị Hà,Thực Tập Sinh Nhân Viên Kinh Doah,"Bình Dương, Hồ Chí Minh, Bình Phước",Chưa có
+1010,Sơn Thái Hoàng,Kỹ Sư Hiện Trường,"Bình Dương, Hồ Chí Minh, Sóc Trăng, Cần Thơ, Đồng Nai",Chưa có
+1011,Nguyễn Văn Thân,Kỹ Sư Thiết Kế,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+1012,Vi Thị Minh Anh,Chăm Sóc Khách Hàng,"Bình Dương, Hồ Chí Minh",Chưa có
+1013,Nguyễn Sỹ Hùng,Nhân Viên Kỹ Thuật,"Bình Dương, Hồ Chí Minh, Hà Nội",Dưới 1 năm
+1014,Hồ Thị Trúc Linh,Nhân Viên,"Bình Dương, Hồ Chí Minh",Chưa có
+1015,Nguyễn Thị Nhã Trúc,Kế Toán,Bình Dương,Chưa có
+1016,Lê Thị Ngọc,Thực Tập Sinh Kế Toán,Bình Dương,Chưa có
+1017,Trần Ý Quí,Nhân Viên It,"Bình Dương, Hồ Chí Minh, Kiên Giang",Dưới 1 năm
+1018,Võ Thị Khánh Vân,"Nhân Viên Qc Ngành Thực Phẩm, Mỹ Phẩm,...","Bình Dương, Hồ Chí Minh, Long An, Sóc Trăng, Đồng Nai",Chưa có
+1019,Ngô Thị Điệp,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+1020,Nguyễn Thái Nhật,Kỹ Thuật Trại Heo Thịt,"Bà Rịa - Vũng Tàu, Trà Vinh, Bình Dương, Bình Thuận, Đồng Nai",Chưa có
+1021,Nguyễn Thị Thùy Ngân,Kế Toán / Kiểm Toán,"Nghệ An, Bình Dương, Hồ Chí Minh, Đà Nẵng, Đồng Nai",Chưa có
+1022,Nguyễn Ngọc Thiên Phú,Nhân Viên Văn Phòng,Bình Dương,Dưới 1 năm
+1023,Phan Thị Mỹ Uyên,Quản Lý Bán Trú,Bình Dương,Chưa có
+1024,Trần Nguyễn Bảo Trân,Thực Tập Sinh,Bình Dương,Chưa có
+1025,Vo Thi Hong Dao,Translator-Interpreter/english-Russian Teacher,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Ninh Thuận",1 năm
+1026,Nguyễn Thị Phương Uyên,Thực Tập Sinh Chứng Từ,Bình Dương,Chưa có
+1027,Huỳnh Thị Cẩm Ngọc,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh",Chưa có
+1028,Phạm Thị Thu Hương,Nhân Viên Hành Chính,"Bình Dương, Hồ Chí Minh",Chưa có
+1029,Nguyễn Thị Kim Dung,Nhân Viên,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh",Dưới 1 năm
+1030,Nguyễn Quang Trường,Nhân Viên Kinh Doanh,Bình Dương,Chưa có
+1031,Võ Hoàng Oanh,Nhân Viên Văn Phòng,"Bình Dương, Tây Ninh",Chưa có
+1032,Nguyễn Nam Hà,Kỹ Thuật-Lập Trình,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+1033,Hồ Thị Phương Nhi,"Qa/qc, Quản Lý Chất Lượng","Bình Dương, Hồ Chí Minh, Long An",Dưới 1 năm
+1034,Nguyễn Văn Đức,Nhân Viên Vận Hành Máy,"Bình Dương, Bắc Ninh",Chưa có
+1035,Phạm Thị Thúy Hằng,Giáo Viên Tiểu Học,Bình Dương,Chưa có
+1036,Lê Thanh Nhân,Marketing,Bình Dương,Dưới 1 năm
+1037,Nguyễn Thiện Quang,Cơ Khí,Bình Dương,Dưới 1 năm
+1038,Lê Thị Huyền,Nhân Viên Lễ Tân,Bình Dương,Dưới 1 năm
+1039,Phạm Minh Quân,Sinh Viên,"Bình Dương, Hồ Chí Minh, Hà Nội",1 năm
+1040,Truong Tu Nhien,Teacher,Bình Dương,4 năm
+1041,Nguyen Thi Thu Trang,Quality Control,"Bình Dương, Hồ Chí Minh, Tây Ninh, Long An",Chưa có
+1042,Ngô Quyền Trang,Nhân Viên Hành Chính,Bình Dương,Chưa có
+1043,Nguyễn Thị Mỹ Hương,Nhân Viên Phòng Kỹ Thuật,"Bình Dương, Hồ Chí Minh, Bình Thuận",Chưa có
+1044,Cao Huyền Trang,Nhân Vien Hành Chính Nhân Sự,Bình Dương,2 năm
+1045,Nguyễn Hữu Trung,Kỹ Thuật Trại,"Bà Rịa - Vũng Tàu, Bình Dương, Long An, Tiền Giang, Đồng Nai",Chưa có
+1046,Phạm Tuyết Oanh,Nhân Viên Chứng Từ,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",Chưa có
+1047,Nguyễn Hoàng Sơn,Nhân Viên Kinh Doanh,"Bình Dương, Hồ Chí Minh",Chưa có
+1048,Cao Hoàng Kết,Kỹ Thuật Viên Chuyên Ngành Điện Tử,"Bình Dương, Hồ Chí Minh, Cần Thơ",Chưa có
+1049,Hồ Đức Tùng,Kỹ Sư Cơ Điện Tử,Bình Dương,Chưa có
+1050,Nguyễn Khắc Vũ,Nhân Viên,"Bình Dương, Hồ Chí Minh, Đồng Nai",Chưa có
+1051,Nguyễn Thị Thu Hà,Sinh Quản,Bình Dương,1 năm
+1052,Biện Văn Tý,Nhân Viên Cố Vấn Dịch Vụ & Kỹ Thuật Viên Ô Tô,"Bình Dương, Hồ Chí Minh, Cần Thơ, Đồng Nai, Bạc Liêu",Chưa có
+1053,Nguyễn Tuấn Vĩ,Pha Chế Partime,Bình Dương,Chưa có
+1054,Trần Quốc Bảo,Kỹ Thật Viên Sơn Chưa Có Kinh Nghiệm,Bình Dương,Dưới 1 năm
+1055,Đỗ Thị Hạnh Cơ,Nhân Viên Bán Hàng,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Bình Thuận, Đồng Nai",Dưới 1 năm
+1056,Võ Thị Bảo Trâm,Nhân Viên Kế Toán,Bình Dương,Chưa có
+1057,Lê Thị Thu Hiền,Quality Manegetment Staff( Qc/qa),"Bình Dương, Hồ Chí Minh, Đà Nẵng, Cần Thơ, Đồng Nai",Chưa có
+1058,Lương Kiều Ái Ly,Nhân Viên Nhân Sự,"Bình Dương, Hồ Chí Minh, Bình Phước, Đắk Nông, Đồng Nai",Dưới 1 năm
+1059,Trần Thị Kim Ngân,Thực Tập Sinh Nhân Sự,"Bình Dương, Hồ Chí Minh",Chưa có
+1060,Lê Thị Hồng Nhung,Nhân Viên Điều Phối,"Bình Dương, Hồ Chí Minh, Đà Nẵng",Chưa có
+1061,Phạm Văn Tấn Đạt,Học Việc Sửa Chửa Ô Tô,Bình Dương,Dưới 1 năm
+1062,Ngô Đức Vinh,Kỹ Thuật Viên,Bình Dương,Dưới 1 năm
+1063,Le Thi Hau,Import-Export Staff,Bình Dương,Chưa có
+1064,Lê Quang Bão,Kỹ Sư Thiết Kế Chi Tiết,"Bình Dương, Hồ Chí Minh",Chưa có
+1065,Trương Hoài Trúc,Thực Tập Sinh Sale-Admin,Bình Dương,Chưa có
+1066,Huỳnh Quốc Phúc,"Kỹ Sư Môi Trường, Nhân Viên Văn Phòng","Bình Dương, Hồ Chí Minh, Đà Nẵng",Dưới 1 năm
+1067,Đoàn Gia Sang,"Nhân Viên Thiết Kế, Vận Hành Máy",Bình Dương,Chưa có
+1068,Nguyễn Thị Hồng Huệ,Nhân Viên Điều Phối Viên Bưu Cục,Bình Dương,Dưới 1 năm
+1069,Ngô Thị Kim Thanh,"Phát Triển Công Thức Sản Phẩm Mỹ Phẩm Và Các Ngành Nghề Có Liên Quan, Ngành Nghề Linh Hoạt","Bình Dương, Hồ Chí Minh",Chưa có
+1070,Đặng Tuấn Minh,"Nhân Viên Cơ Khí Cnc Biết Tiếng Trung , Nhật",Bình Dương,3 năm
+1071,Trần Bá Vương,Nhân Viên Vận Hành Cnc / Nhân Viên Thiết Kế,"Bình Dương, Hồ Chí Minh",Dưới 1 năm
+1072,Ánh Tuyết,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+1073,Trần Thị Tuyết Giang,Nhân Viên Sale,"Bình Dương, Hồ Chí Minh, Long An, Cần Thơ, Đồng Nai",Chưa có
+1074,Lý Xuân Lập,Thực Tập Sinh,"Bình Dương, Hồ Chí Minh",Chưa có
+1075,Nguyễn Thị Tường Vi,Nhân Viên Qa/qc,"Bình Dương, Hồ Chí Minh",Chưa có
+1076,Lê Thị Thanh Hằng,Nhân Sự  Hoặc Công Việc Đúng Với Chuyên Ngành,"Bà Rịa - Vũng Tàu, Bình Dương, Hồ Chí Minh, Đà Nẵng, Đồng Nai",Chưa có
+1077,Huỳnh Thị Trúc Chi,Nhân Viên Văn Phòng,Bình Dương,Chưa có
+1078,Đào Thị Thúy Ngân,Nhân Viên R&d,"Bình Dương, Hồ Chí Minh, Cần Thơ",Chưa có
+1079,Hoàng Quốc Trọng,Nhân Viên Kho,Bình Dương,Chưa có
+1080,Hoàng Quốc Trọng,"Nhân Viên Văn Phòng, Nhân Viên Kinh Doanh",Bình Dương,Chưa có
